@@ -25,7 +25,7 @@ _You can use this repository to document & celebrate your event highlights!_
 
 | Attendees      |  Projects     |
 |---------------:|--------------:|
-|{your attendee count}| [{your project count & project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+|{your attendee count}| [{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
 
 ## Summary & Grant Fund Allocation Overview
 
