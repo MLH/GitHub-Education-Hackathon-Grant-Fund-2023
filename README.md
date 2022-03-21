@@ -29,7 +29,7 @@ _You can use this repository to document & celebrate your event highlights!_
 
 ## Summary & Grant Fund Allocation Overview
 
-> How did you use the sponsored grant funds? <br>
+> How did you use the grant funds? <br>
 > (The items below are an example of what you can include)
 
 | Hackathon Expense |  Cost |     
