@@ -1,4 +1,4 @@
-# The GitHub Fund Grant
+# The GitHub Grant Fund
 
 _Congratulations on hosting your **GitHub Grant** powered event through **MLH**._
 
