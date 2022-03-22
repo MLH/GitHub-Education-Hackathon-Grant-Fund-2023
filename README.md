@@ -6,9 +6,9 @@ _You can use this repository to document & celebrate your event highlights!_
 
 ### Instructions 
 
-- Click on the README.md file and hit the 'copy raw contents' icon.
+- Click on the README.md file and hit the `copy raw contents` icon.
   - It should look like two overlapping squares. 
-- Go back to the main repository landing page and hit 'Add File.'
+- Go back to the main repository landing page -> navigate to the `Hackathons_2022` folder and hit `Add File`. 
 - We're going to be creating a new markdown file. 
 - The markdown file should be named ```{Your Hackathon Name}-{Year of Event}.md.``` 
   - For example: ```AbstractHacks-2022.md```
