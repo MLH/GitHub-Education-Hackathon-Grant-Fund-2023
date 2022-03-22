@@ -16,6 +16,7 @@ _You can use this repository to document & celebrate your event highlights!_
 
 # {Your Hackathon Name}
 > Provide a description of your event, including but _not_ limited to: <br>
+> - Start and end dates of your event. 
 > - Your mission statement.
 > - How long this event has been running. 
 > - The groups of people you service. 
