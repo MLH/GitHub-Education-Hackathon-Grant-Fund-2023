@@ -6,11 +6,17 @@ _You can use this repository to document & celebrate your event highlights!_
 
 ### Instructions 
 
-- Create a new markdown file. 
+- Click on the README.md file and hit the 'copy raw contents' <br> The icon looks like two overlapping squares. 
+- Go back to the main repository landing page and hit 'Add File.'
+- We're going to be creating a new markdown file. 
 - The markdown file should be named ```{Your Hackathon Name}-{Year of Event}.md.``` 
   - For example: ```AbstractHacks-2022.md```
-- Copy and past the template below and add your own content. 
-- Submit your markdown file to the repository and create a new pull request. 
+- Copy and paste the template raw contents and delete everything from lines 1-22.
+- Fill the markdown template in with your own event information and commit a new file. 
+- In the description, feel free to include a brief summary of your commit. 
+- Create a new pull request. 
+- Look over your pull request and ensure that all the information is accurate. 
+- Submit a pull request! 
 
 ### Content Submission Template: 
 
