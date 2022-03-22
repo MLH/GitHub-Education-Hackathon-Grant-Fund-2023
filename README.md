@@ -1,6 +1,6 @@
-# The GitHub Grant & MLH Pizza Fund Program 
+# The GitHub Fund Grant
 
-_Congratulations on hosting your **GitHub Grant** or **Pizza Fund** powered event through **MLH**._
+_Congratulations on hosting your **GitHub Grant** powered event through **MLH**._
 
 _You can use this repository to document & celebrate your event highlights!_
 
