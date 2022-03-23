@@ -1,4 +1,4 @@
-# The GitHub Grant Fund
+# The GitHub Education Hackathon Grant Fund 2022
 
 _Congratulations on hosting your **GitHub Grant** powered event through **MLH**._
 
