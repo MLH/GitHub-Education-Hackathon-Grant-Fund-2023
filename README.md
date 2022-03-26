@@ -11,6 +11,7 @@ _You can use this repository to document & celebrate your event highlights!_
   - For example: ```AbstractHacks-2022.md```
 - Copy and past the template below and add your own content. 
 - Submit your markdown file to the repository and create a new pull request. 
+- Check out this sample template for reference: https://github.com/JackieMLH/GitHub-Grant/blob/patch-1/sample_poweruphacks-2022.md
 
 ### Content Submission Template: 
 
