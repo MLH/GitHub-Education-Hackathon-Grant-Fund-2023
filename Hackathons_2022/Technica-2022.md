@@ -1,24 +1,23 @@
-# Technica 2022
+# 💖 Technica 2022
 Technica is the non-profit organization behind <i>the world’s largest hackathon for underrepresented genders</i> as well as affiliated programs and events, organized by University of Maryland students. Technica’s hackathon takes place every fall, this year on <b>October 15-16, 2022</b>. Over the duration of 24 hours, Technica hackers are immersed in tech culture and encouraged to exercise their imagination to create interesting and innovative hacks. Striving to expand access to Technica’s unique community, Technica is a global, hybrid event both <b>in-person at The Hotel at The University of Maryland and online</b> via our custom virtual platform.
 
-This year’s theme was “Reach New Heights!” We want to help all our hackers rise to the next level in their tech journey, whether that means tackling challenging new projects or writing your first line of code. We encourage you to be open-minded, be curious, and find your space in tech. Explore your untapped potential - the sky’s the limit at Technica! Whether we serve as a push in the right direction or a place for you to explore your curiosities, we hope that you are able to <b>#ReachNewHeights</b>!
+This year’s theme was “Reach New Heights!” We want to help all our hackers rise to the next level in their tech journey, whether that means tackling challenging new projects or writing your first line of code. We encourage you to be open-minded, be curious, and find your space in tech. Explore your untapped potential - the sky’s the limit at Technica! Whether we serve as a push in the right direction or a place for you to explore your curiosities, we hope that you are able to <b>#ReachNewHeights</b>! 🌃 🚇 🚦 ✨
 
 
-## Event Summary
+## ⚡️ Event Summary
 
 During Technica weekend, we held <b>45</b> workshops, <b>10</b> mini-events, and <b>5</b> Techni-chats (community-building events)! Needless to say, hackers were always busy during Technica, learning, meeting new people, and having fun! GitHub and git were showcased in our Technica 101 event at the start of hacking and featured in the Intro to Web Development workshop as part of our Beginner track. Our favorite new mini-events include the midnight Glow Party in which hackers fashioned outfits with glow wire and put on a fashion show, Technica's Got Talent (open mic night), and the pop-up shop in which hackers could using their Techni-metro card to redeem bonus swag based on workshop participation!
 
-## Event Metrics 
+## 🫂 Event Metrics
 
 | Attendees | In Person| Virtual | Projects|
 |---------------:|--------------:|------------:|------------:|
 |1200+|800+|400+|[technica2022.devpost.com](https://technica2022.devpost.com/project-gallery)| 
 
-## Tech Impact / Diversity 
+## 🌍 📚 Tech Impact / Diversity
 
 ### What genders did our hackers identify with?
 *does not total to all our attendees
-
 | Cisgender Woman | Non-binary | Genderqueer | Transgender | Other |
 |---------------:|--------------:|------------:|---------:|--------:|
 |1004|41|12|14|13|
@@ -42,14 +41,15 @@ During Technica weekend, we held <b>45</b> workshops, <b>10</b> mini-events, and
 |---------------:|--------------:|------------:|---------:|--------------:|------------:|---------:|--------------:|------------:|---------:|
 |65.45%|6.63%|5.95%|4.76%|4.2%|3.45%|3.17%|2.24%|1.87%|2.24%|
 
-## Impact of GitHub Grant
+## 💰 Impact of GitHub Grant
+
 A new focus of our event this year was increased accessibility, both physically and digitally. As such, we invested in ASL interpreters, closed captioning for our YouTube livestream and event Zoom rooms, and laptops to provide for hackers that don't have their own. We were able to invest in these new detail thanks to the funds from the GitHub Education grant. 
 
-## Projects
+## 💻 Projects
 
 Hackers participated in one of four tracks: <b>Beginner</b>, <b>Startup</b>, <b>Research</b>, and <b>General</b>. Hack challenges included Best UX Design, Best Service Hack, Best Travel/Transporation Hack, Best Beginner Hack for Middle/High School, Best Beginner Hack for College/General, Best Hardware Hack, Best Startup Track Hack, in addition to <b>17</b> sponsored challenges judged by representatives from our sponsoring companies and several staple Major League Hacking challenges. Our total prize amount was over <b>$20,000</b>, thanks to funds from our sponsors, including the GitHub Education Fund! <b>54</b> hackers across <b>9</b> teams also participated in faculty-led research projects in collaboration with the Iribe Initiative for Inclusion and Diversity in Computing. View all <b>124</b> projects from <b>513</b> participating hackers at [technica2022.devpost.com](https://technica2022.devpost.com/project-gallery)!
 
-## Event Videos & Photos
+## 📹 📸 Event Video & Photos
 
 [![Technica 2022 Recap Video](http://img.youtube.com/vi/Nq4xhJjuVik/0.jpg)](https://www.youtube.com/watch?v=Nq4xhJjuVik "Technica 2022 Recap | Reach New Heights")
 <br> <b> Click on the thumbnail above to watch the recap video! </b>
@@ -70,7 +70,7 @@ Hackers participated in one of four tracks: <b>Beginner</b>, <b>Startup</b>, <b>
 | :--:|
 | A winning team on stage! |
 
-## What’s Next?
+## ⏭️ What’s Next?
 You can read more about Technica 2022 at [gotechnica.org](gotechnica.org) - information on Technica 2023 will be available on our website in the spring. In the meantime, keep up with us on [Instagram](https://www.instagram.com/gotechnica/) @gotechnica, [LinkedIn](https://www.linkedin.com/company/gotechnica), [Twitter](https://twitter.com/gotechnica), [Facebook](https://www.facebook.com/gotechnica/), and [TikTok](https://www.tiktok.com/@gotechnica_). Look out for our annual report that will be shared later this year!
 
 You can also join our [Community Discord](https://discord.com/invite/8fup4XfcC9) to interact with other hackers all year long!
