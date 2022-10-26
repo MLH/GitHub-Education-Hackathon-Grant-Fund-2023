@@ -6,7 +6,7 @@ This year’s theme was “Reach New Heights!” We want to help all our hackers
 
 ## Event Summary
 
-Within Technica weekend, we held <b>45</b> workshops, <b>10</b> mini-events, and <b>5</b> Techni-chats (community-building events)! Needless to say, hackers were always busy during Technica, learning, meeting new people, and having fun! GitHub and git were showcased in our Technica 101 event at the start of hacking and the star of the Beginner Track's Intro to Web Development workshop. Our favorite new mini-events include the midnight Glow Party in which hackers fashioned outfits with glow wire and put on a fashion show, Technica's Got Talent (open mic night), and the pop-up shop in which hackers could using their Techni-metro card to redeem bonus swag based on workshop participation!
+During Technica weekend, we held <b>45</b> workshops, <b>10</b> mini-events, and <b>5</b> Techni-chats (community-building events)! Needless to say, hackers were always busy during Technica, learning, meeting new people, and having fun! GitHub and git were showcased in our Technica 101 event at the start of hacking and the star of the Beginner Track's Intro to Web Development workshop. Our favorite new mini-events include the midnight Glow Party in which hackers fashioned outfits with glow wire and put on a fashion show, Technica's Got Talent (open mic night), and the pop-up shop in which hackers could using their Techni-metro card to redeem bonus swag based on workshop participation!
 
 ## Event Metrics 
 
@@ -45,12 +45,12 @@ A big focus of our event this year was increased accessibility, both physically 
 
 ## Top Projects
 
-Hackers participated in one of four tracks: <b>Beginner</b>, <b>Startup, <b>Research</b>, and <b>General</b>. Hack challenges included Best UX Design, Best Service Hack, Best Travel/Transporation Hack, Best Beginner Hack for Middle/High School, Best Beginner Hack for College/General, Best Hardware Hack, Best Startup Track Hack, in addition to <b>17 sponsored challenges judged by representatives from our sponsoring companies and several staple Major League Hacking challenges. <b>54</b> hackers across <b>9</b> teams also participated in faculty-led research projects in collaboration with the Iribe Initiative for Inclusion and Diversity in Computing. View all <b>124</b> projects across <b>513</b> participating hackers at [technica2022.devpost.com](https://technica2022.devpost.com/project-gallery)!
+Hackers participated in one of four tracks: <b>Beginner</b>, <b>Startup, <b>Research</b>, and <b>General</b>. Hack challenges included Best UX Design, Best Service Hack, Best Travel/Transporation Hack, Best Beginner Hack for Middle/High School, Best Beginner Hack for College/General, Best Hardware Hack, Best Startup Track Hack, in addition to <b>17 sponsored challenges judged by representatives from our sponsoring companies and several staple Major League Hacking challenges. Our total prize amount was over <b>$20,000</b>, thanks to funds from our sponsors, including the GitHub Education Fund! <b>54</b> hackers across <b>9</b> teams also participated in faculty-led research projects in collaboration with the Iribe Initiative for Inclusion and Diversity in Computing. View all <b>124</b> projects across <b>513</b> participating hackers at [technica2022.devpost.com](https://technica2022.devpost.com/project-gallery)!
 
 ## Event Videos & Photos
 
 [![Technica 2022 Recap Video](http://img.youtube.com/vi/Nq4xhJjuVik/0.jpg)](https://www.youtube.com/watch?v=Nq4xhJjuVik "Technica 2022 Recap | Reach New Heights")
-<br> <b> Click on the thumbnail to watch the recap video! </b>
+<br> <b> Click on the thumbnail above to watch the recap video! </b>
      
 | <a href="https://drive.google.com/uc?export=view&id=1U0Hg8ABW_hse9TQpaD0DPqesVV9JotL_"><img src="https://drive.google.com/uc?export=view&id=1U0Hg8ABW_hse9TQpaD0DPqesVV9JotL_" style="width: 500px; max-width: 100%; height: auto" title="A group of hackers hanging out by the check-in desk and sponsor booths." /></a> |
 | :--:|
@@ -69,4 +69,6 @@ Hackers participated in one of four tracks: <b>Beginner</b>, <b>Startup, <b>Rese
 | <b> A winning team on stage! </b> |
 
 ## What’s Next?
-Information on Technica 2023 will be available via [gotechnica.org](gotechnica.org) in the spring. In the meantime, keep up with us on [Instagram](https://www.instagram.com/gotechnica/) @gotechnica, [LinkedIn](https://www.linkedin.com/company/gotechnica), [Twitter](https://twitter.com/gotechnica), [Facebook](https://www.facebook.com/gotechnica/), and [TikTok](https://www.tiktok.com/@gotechnica_). You can also join our [Community Discord](https://discord.com/invite/8fup4XfcC9) to interact with other hackers all year long!
+You can read more about Technica 2022 at [gotechnica.org](gotechnica.org) - information on Technica 2023 will be available on our website in the spring. In the meantime, keep up with us on [Instagram](https://www.instagram.com/gotechnica/) @gotechnica, [LinkedIn](https://www.linkedin.com/company/gotechnica), [Twitter](https://twitter.com/gotechnica), [Facebook](https://www.facebook.com/gotechnica/), and [TikTok](https://www.tiktok.com/@gotechnica_). Look out for our annual report that will be shared later this year!
+
+You can also join our [Community Discord](https://discord.com/invite/8fup4XfcC9) to interact with other hackers all year long!
