@@ -6,10 +6,7 @@ This year’s theme was “Reach New Heights!” We want to help all our hackers
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+Within Technica weekend, we held <b>45</b> workshops, <b>10</b> mini-events, and <b>5</b> Techni-chats (community-building events)! Needless to say, hackers were always busy during Technica, learning, meeting new people, and having fun! GitHub and git were showcased in our Technica 101 event at the start of hacking and the star of the Beginner Track's Intro to Web Development workshop. Our favorite new mini-events include the midnight Glow Party in which hackers fashioned outfits with glow wire and put on a fashion show, Technica's Got Talent (open mic night), and the pop-up shop in which hackers could using their Techni-metro card to redeem bonus swag based on workshop participation!
 
 ## Event Metrics 
 
@@ -42,9 +39,7 @@ This year’s theme was “Reach New Heights!” We want to help all our hackers
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+Hackers participated in one of four tracks: Beginner, Startup, Research, and General. Hack challenges included Best UX Design, Best Service Hack, Best Travel/Transporation Hack, Best Beginner Hack for Middle/High School, Best Beginner Hack for College/General, Best Hardware Hack, Best Startup Track Hack, in addition to 17 sponsored challenges judged by representatives from our sponsoring companies and several staple Major League Hacking challenges. 9 teams also participated in faculty-led research projects in collaboration with the Iribe Initiative for Inclusion and Diversity in Computing. View all 124 projects across 513 participating hackers at [technica2022.devpost.com](https://technica2022.devpost.com/project-gallery)!
 
 ## Event Videos & Photos
 
