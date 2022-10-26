@@ -42,7 +42,12 @@ Cybersecurity challenge events which were very fun!
 - (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
 
 ## Top Projects
+We had some cool projects this time around, not the least of which is our 1st place Grand Prize-Winning team, Hey Alz's, project which utilized Virtual Reality
+to help combat the progression of alzheimer's disease. We liked how creative their idea was, how they utilized another app, Polycam, to handle capturing the surroundings 
+which allowed them to focus on the main aspects of their project, and how they made a mobile app for their project in such a short amount of time (link to their project's
+Devpost: https://devpost.com/software/hey-alz). 
 
+Hackers used GitHub to showcase their project and collaborate with their team members to build 
 - What were some of the coolest projects at your event? <br> 
 - We also want to see how hackers used GitHub at the event <br>
 - What made them special? _Include the link to their website, Devpost or video._
@@ -70,9 +75,10 @@ Cybersecurity challenge events which were very fun!
 
 
 ## What’s Next?
-We are going to follow up with our hackers to get their feedback on our event to see what worked or didn't worked. Overall, we felt the hackathon was a success. With 90
-registrants, we were surprised to see a low attrition of 29 teams formed and still 24 teams submitting a project for the hackathon. We also liked the spread of projects
-covering various tracks, with the Patient Engagement track being a runaway hit with our teams this year. Our Instagram handle is "pitt_challenge" (link: https://www.instagram.com/pitt_challenge/)
+We're going to follow up with our hackers to get their feedback on our event to see what worked or didn't worked. Overall, we felt the hackathon was a success. With 90
+registrants, we were surprised to see 29 teams formed and a low attrition rate, with 24 teams submitting a project for the hackathon. We also liked the spread of projects
+covering various tracks, with the Patient Engagement track being a runaway hit with our teams this year. The dates for next year's hackathon haven't been decided yet.
+Our Instagram handle is "pitt_challenge" (https://www.instagram.com/pitt_challenge/).
 - Include a high-level wrap-up summary <br>
 - What are the dates for your future hackathon? <br>
 - Twitter & Instagram handles (if applicable)  
