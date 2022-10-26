@@ -45,22 +45,18 @@ Hackers participated in one of four tracks: <b>Beginner</b>, <b>Startup, <b>Rese
 
 [![Technica 2022 Recap Video](http://img.youtube.com/vi/Nq4xhJjuVik/0.jpg)](https://www.youtube.com/watch?v=Nq4xhJjuVik "Technica 2022 Recap | Reach New Heights")
 <br> <b> Click on the thumbnail to watch the recap video! </b>
+     
+<a href="https://drive.google.com/uc?export=view&id=1U0Hg8ABW_hse9TQpaD0DPqesVV9JotL_"><img src="https://drive.google.com/uc?export=view&id=1U0Hg8ABW_hse9TQpaD0DPqesVV9JotL_" style="width: 500px; max-width: 100%; height: auto" title="A group of hackers hanging out by the check-in desk and sponsor booths." /></a>
+<b> A group of hackers hanging out by the check-in desk and sponsor booths! </b>
 
-| <img src="https://drive.google.com/file/d/1U0Hg8ABW_hse9TQpaD0DPqesVV9JotL_/view" width="500" height="auto"> |
-|:--:|
-| <b> A group of hackers hanging out by the check-in desk and sponsor booths! </b>|
+<a href="https://drive.google.com/uc?export=view&id=1PKYz6KCraJjLoSm07-7eALmgooxSfmWo"><img src="https://drive.google.com/uc?export=view&id=1PKYz6KCraJjLoSm07-7eALmgooxSfmWo" style="width: 500px; max-width: 100%; height: auto" title="A hacker getting help from a mentor." /></a>
+<b> A hacker getting help from a mentor! </b>
 
-| <img src="https://drive.google.com/file/d/1PKYz6KCraJjLoSm07-7eALmgooxSfmWo/view" width="500" height="auto"> |
-|:--:|
-| <b> A hacker getting help from a mentor! </b>|
+<a href="https://drive.google.com/uc?export=view&id=1eA5Auj5CBh_YiyDX3iUXisnTf5B-_KXj"><img src="https://drive.google.com/uc?export=view&id=1eA5Auj5CBh_YiyDX3iUXisnTf5B-_KXj" style="width: 500px; max-width: 100%; height: auto" title="A group of hackers at the photobooth." /></a>
+<b> A group of hackers at the photobooth! </b>
 
-| <img src="https://drive.google.com/file/d/1eA5Auj5CBh_YiyDX3iUXisnTf5B-_KXj/view" width="500" height="auto"> |
-|:--:|
-| <b> A group of hackers at the photobooth! </b>|
-
-| <img src="https://drive.google.com/file/d/1KBwO7f7Ctwn4gUJnYW9J6ovsTz0vESU1/view" width="500" height="auto"> |
-|:--:|
-| <b> A winning team on stage! </b>|
+<a href="https://drive.google.com/uc?export=view&id=1KBwO7f7Ctwn4gUJnYW9J6ovsTz0vESU1"><img src="https://drive.google.com/uc?export=view&id=1KBwO7f7Ctwn4gUJnYW9J6ovsTz0vESU1" style="width: 500px; max-width: 100%; height: auto" title="A winning team on stage." /></a>
+<b> A winning team on stage! </b>
 
 ## What’s Next?
 Information on Technica 2023 will be available via [gotechnica.org](gotechnica.org) in the spring. In the meantime, keep up with us on [Instagram](https://www.instagram.com/gotechnica/) @gotechnica, [LinkedIn](https://www.linkedin.com/company/gotechnica), [Twitter](https://twitter.com/gotechnica), [Facebook](https://www.facebook.com/gotechnica/), and [TikTok](https://www.tiktok.com/@gotechnica_). You can also join our [Community Discord](https://discord.com/invite/8fup4XfcC9) to interact with other hackers all year long!
