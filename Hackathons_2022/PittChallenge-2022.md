@@ -57,19 +57,19 @@ Hackers used GitHub to showcase their project and collaborate with their team me
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://pitt-my.sharepoint.com/:i:/g/personal/row62_pitt_edu/EbRkZzFT3rRHo39snvOZEfkBO8jXRrjl7cn4W4OjHL8YVw?e=BAEVoZ" width="500" height="auto"> |
+| <img src="https://drive.google.com/file/d/1AJAIZ95GWjdtt8HQdSRGPusdymcPzSTD/view?usp=sharing" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers hacking while eating lunch </b>|
 
-| <img src="https://pitt-my.sharepoint.com/:i:/g/personal/row62_pitt_edu/Ea6SFTfnd-5KqwgSBGnGLu0B-IZ-wQgbYobQOdvD7-86Pg?e=jXPwht" width="500" height="auto"> |
+| <img src="https://drive.google.com/file/d/1MA5f28DTbWdDzREJQQWuFXqolkGhu1vy/view?usp=sharing" width="500" height="auto"> |
 |:--:|
-| <b> A presentation on Patient Engagement & Clinical Trials by our sponsor Gilead Sciences</b>|
+| <b> A presentation on Patient Engagement & Clinical Trials by one of our sponsors, Gilead Sciences</b>|
 
-| <img src="https://pitt-my.sharepoint.com/:i:/g/personal/row62_pitt_edu/EXbzN6Q_ylNJguZeuYnftb0B8WMBHqPO8nGwbem16B9cwg?e=8VTcNl" width="500" height="auto"> |
+| <img src="https://drive.google.com/file/d/1ox2tvt_xXEl_gTjXV6yT-w-KJuROBUfc/view?usp=sharing" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers hacking away with a backdrop of beautiful Fall weather!</b>|
 
-| <img src="https://pitt-my.sharepoint.com/:i:/g/personal/row62_pitt_edu/EQ5V_lTYoGBBml2qtM6P-GcBZh5x9nXzTU_nU8l_yalB4w?e=hn1BVU" width="500" height="auto"> |
+| <img src="https://drive.google.com/file/d/13e3Ys9PhiyaYZ2OAgV9ykYCOXz-hbBQj/view?usp=sharing" width="500" height="auto"> |
 |:--:|
 | <b> One of our judge's service dogs also got in on the fun!</b>|
 
