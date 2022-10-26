@@ -16,26 +16,32 @@ Within Technica weekend, we held <b>45</b> workshops, <b>10</b> mini-events, and
 
 ## Tech Impact / Diversity 
 
-### What genders did your hackers identify with?
+### What genders did our hackers identify with?
 | Cisgender Woman | Non-binary | Genderqueer | Transgender | Other |
 |---------------:|--------------:|------------:|---------:|--------:|
 |1004|41|12|14|13|
 
-### What race & ethnicities did your hackers identify as?
+### What race & ethnicities did our hackers identify as?
 | Asian | Black / <br> African American | White / <br> Caucasian | 2+ Races & Other |
 |---------------:|--------------:|------------:|---------:|
 |400|150|120|130|
 
-
-### Where were your hackers from?
+### Where were our hackers from?
 | North America | Asia | Europe | Africa |
 |---------------:|--------------:|------------:|---------:|
 |1075|37|8|2|
 
+### What do our hackers study?
+| Elementary / <br> Middle School | High School | Undergraduate | Graduate | PhD | Recent Grad | Other |
+|---------------:|--------------:|------------:|---------:|--------------:|------------:|---------:|
+|1.34%|12.49%|76.36%|7.4%|0.27%|1.78%|0.36%|
+
+| Computer Science | Business | Natural Science | Social Science | Engineering | IT | Arts & Humanities | Math | Design | Undecided |
+|---------------:|--------------:|------------:|---------:|--------------:|------------:|---------:|--------------:|------------:|---------:|
+|65.45%|6.63%|5.95%|4.76%|4.2%|3.45%|3.17%|2.24%|1.87%|2.24%|
+
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+A big focus of our event this year was increased accessibility, both physically and digitally. As such, we invested in ASL interpreters, closed captioning for our YouTube livestream and event Zoom rooms, and laptops to provide for hackers that don't have their own. We were able to invest in these new detail thanks to the funds from the GitHub Education grant. 
 
 ## Top Projects
 
