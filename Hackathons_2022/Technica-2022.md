@@ -39,7 +39,7 @@ Within Technica weekend, we held <b>45</b> workshops, <b>10</b> mini-events, and
 
 ## Top Projects
 
-Hackers participated in one of four tracks: Beginner, Startup, Research, and General. Hack challenges included Best UX Design, Best Service Hack, Best Travel/Transporation Hack, Best Beginner Hack for Middle/High School, Best Beginner Hack for College/General, Best Hardware Hack, Best Startup Track Hack, in addition to 17 sponsored challenges judged by representatives from our sponsoring companies and several staple Major League Hacking challenges. 9 teams also participated in faculty-led research projects in collaboration with the Iribe Initiative for Inclusion and Diversity in Computing. View all 124 projects across 513 participating hackers at [technica2022.devpost.com](https://technica2022.devpost.com/project-gallery)!
+Hackers participated in one of four tracks: <b>Beginner</b>, <b>Startup, <b>Research</b>, and <b>General</b>. Hack challenges included Best UX Design, Best Service Hack, Best Travel/Transporation Hack, Best Beginner Hack for Middle/High School, Best Beginner Hack for College/General, Best Hardware Hack, Best Startup Track Hack, in addition to <b>17 sponsored challenges judged by representatives from our sponsoring companies and several staple Major League Hacking challenges. <b>54</b> hackers across <b>9</b> teams also participated in faculty-led research projects in collaboration with the Iribe Initiative for Inclusion and Diversity in Computing. View all <b>124</b> projects across <b>513</b> participating hackers at [technica2022.devpost.com](https://technica2022.devpost.com/project-gallery)!
 
 ## Event Videos & Photos
 
