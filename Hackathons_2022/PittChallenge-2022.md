@@ -1,19 +1,15 @@
 # The Pitt Challenge
-The Pitt Challenge hackathon was held from Friday, October 21st starting at 5:00 pm to Saturday, October 22nd ending at 8:00 pm. 
-The Pitt Challenge was held at the University of Pittsburgh's Benedum Hall in Pittsburgh, Pennsylvania, and made possible by the University of Pittsburgh School of Pharmacy and our generous sponsors.
+The Pitt Challenge hackathon was held from Friday, October 21st starting at 5:00 pm to Saturday, October 22nd ending at 8:00 pm at the University of Pittsburgh's Benedum Hall in Pittsburgh, Pennsylvania. The Pitt Challenge was made possible by the University of Pittsburgh's School of Pharmacy and our generous sponsors.
 
 ## Event Summary
-The Pitt Challenge brings together healthcare-based students and tech-based students who collaborate as teams to identify, understand, and create solutions for pressing problems in healthcare.
-This year's Pitt Challenge marked a return to an in-person hackathon after it went virtual due to COIVD two years ago. The in-person setting eased the team formation process,
-fostered greater collaboration and bonding within teams, and created opportunities for our teams to converse and learn from each other, our mentors, and our sponsors that would
+The Pitt Challenge brings together healthcare-based students and tech-based students who collaborate as teams to identify, understand, and create solutions for pressing problems in healthcare. 
+This year's Pitt Challenge marked a return to an in-person hackathon after it went virtual due to COIVD two years ago. The in-person setting eased the team formation process, fostered greater collaboration and bonding within teams, and created opportunities for our teams to converse and learn from each other, our mentors, and our sponsors that would
 otherwise have not been possible virtually. Some cool events we hosted during the hackathon were Morning Yoga, a DigitalOcean Workshop in which a speaker from DigitalOcean shared 
 about DigitalOcean and demonstrated how to set up a virtual machine and database on DigitalOcean, and a Patient Engagement event by Gilead Sciences which gave participants the
-opportunity to get feedback on their project ideas from patient representatives of underrepresented communities. Our MLH mentors also hosted a Bob Ross w/ MS Paint & Snyk 
-Cybersecurity challenge events which were awesome!
-
+opportunity to get feedback on their project ideas from patient representatives. Our MLH mentors also hosted a Bob Ross w/ MS Paint & Snyk 
+Cybersecurity challenge events both of which were fun, engaging events.
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
@@ -25,7 +21,7 @@ Cybersecurity challenge events which were awesome!
  The target audience of our event included hackers of all skill levels, but especially novice hackers and students new to hackathons, as our hackathon did not restrict
  the number of participants or who could apply and was targeted at healthcare-based students who are unlikely to have participated in a hackathon before.
 
-Of the responses recorded, the race & ethnicities & region breakdowns are as follows:
+Of the responses recorded, the race & ethnicities and region breakdowns are as follows:
 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
@@ -43,7 +39,7 @@ The funds from this grant supported logistics and giveaways to encourage attenda
 patient representatitives who provided teams direct feedback from the voices in the communities they wished to support. 
 
 ## Top Projects
-We had some cool projects this time around, not the least of which is our 1st place Grand Prize-Winning team, Hey Alz's, project which utilized Virtual Reality
+We had some cool projects this time around, not the least of which was our 1st place Grand Prize-Winning team, Hey Alz's, project which utilized Virtual Reality
 to help combat the progression of alzheimer's disease. We liked how creative their idea was, how they utilized another app, Polycam, to handle capturing the surroundings 
 which allowed them to focus on the main aspects of their project, and how they made a mobile app for their project in such a short amount of time (link to Hey Alz's project
 Devpost: https://devpost.com/software/hey-alz). 
