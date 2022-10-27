@@ -9,7 +9,7 @@ fostered greater collaboration and bonding within teams, and created opportuniti
 otherwise have not been possible virtually. Some cool events we hosted during the hackathon were Morning Yoga, a DigitalOcean Workshop in which a speaker from DigitalOcean shared 
 about DigitalOcean and demonstrated how to set up a virtual machine and database on DigitalOcean, and a Patient Engagement event by Gilead Sciences which gave participants the
 opportunity to get feedback on their project ideas from patient representatives of underrepresented communities. Our MLH mentors also hosted a Bob Ross w/ MS Paint & Snyk 
-Cybersecurity challenge events which were very fun!
+Cybersecurity challenge events which were awesome!
 
 
 ## Event Metrics 
@@ -25,6 +25,8 @@ Cybersecurity challenge events which were very fun!
  The target audience of our event included hackers of all skill levels, but especially novice hackers and students new to hackathons, as our hackathon did not restrict
  the number of participants or who could apply and was targeted at healthcare-based students who are unlikely to have participated in a hackathon before.
 
+Of the responses recorded, the race & ethnicities & region breakdowns are as follows:
+
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
 |---------------:|--------------:|------------:|---------:|--------:|
@@ -37,48 +39,44 @@ Cybersecurity challenge events which were very fun!
 |6               |50             |0            |0         |
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+The funds from this grant supported logistics and giveaways to encourage attendance to events, create more tracks and award more prizes, and invite
+patient representatitives who provided teams direct feedback from the voices in the communities they wished to support. 
 
 ## Top Projects
 We had some cool projects this time around, not the least of which is our 1st place Grand Prize-Winning team, Hey Alz's, project which utilized Virtual Reality
 to help combat the progression of alzheimer's disease. We liked how creative their idea was, how they utilized another app, Polycam, to handle capturing the surroundings 
-which allowed them to focus on the main aspects of their project, and how they made a mobile app for their project in such a short amount of time (link to their project's
+which allowed them to focus on the main aspects of their project, and how they made a mobile app for their project in such a short amount of time (link to Hey Alz's project
 Devpost: https://devpost.com/software/hey-alz). 
 
-Hackers used GitHub to showcase their project and collaborate with their team members to build 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+We also loved our 3rd place winner, Fosco's, project and story. They were new acquiantances and formed their team just before the deadline, finding their last member by a stroke of luck. Fosco was a diverse team consisting of a medical student, a psychology student, and an electrical engineer. We liked how their explanation of their project shows their empathy for patients which was reinforced by their pitch to our patient representatives who provided excellent feedback (link to Fosco's project Devpost: https://devpost.com/software/fosco).
+
+Hackers used GitHub to showcase their projects and collaborate with their team members to build their amazing projects. Each team was required to add a link to their GitHub repository for their project to their Devpost submission.
 
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://drive.google.com/file/d/1AJAIZ95GWjdtt8HQdSRGPusdymcPzSTD/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://cdn.discordapp.com/attachments/1027604022825324545/1035013422380748951/IMG_22371-min.JPG" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers hacking while eating lunch </b>|
 
-| <img src="https://drive.google.com/file/d/1MA5f28DTbWdDzREJQQWuFXqolkGhu1vy/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://cdn.discordapp.com/attachments/1027604022825324545/1035013422720495646/IMG_22401-min.JPG" width="500" height="auto"> |
 |:--:|
 | <b> A presentation on Patient Engagement & Clinical Trials by one of our sponsors, Gilead Sciences</b>|
 
-| <img src="https://drive.google.com/file/d/1ox2tvt_xXEl_gTjXV6yT-w-KJuROBUfc/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://cdn.discordapp.com/attachments/1027604022825324545/1035013423156711474/IMG_22201-min.JPG" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers hacking away with a backdrop of beautiful Fall weather!</b>|
 
-| <img src="https://drive.google.com/file/d/13e3Ys9PhiyaYZ2OAgV9ykYCOXz-hbBQj/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://cdn.discordapp.com/attachments/1027604022825324545/1035013423534182451/IMG_2271-min.JPG" width="500" height="auto"> |
 |:--:|
 | <b> One of our judge's service dogs also got in on the fun!</b>|
 
+| <img src="https://cdn.discordapp.com/attachments/1027604022825324545/1033814866840010783/IMG_20221022_195814.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Group photo with everyone at the end of the hackathon!</b>|
+
 
 ## What’s Next?
-We're going to follow up with our hackers to get their feedback on our event to see what worked or didn't worked. Overall, we felt the hackathon was a success. With 90
+We're going to follow up with our hackers to get their feedback on our event to see what worked and didn't work. Overall, we felt the hackathon was a success. With 90
 registrants, we were surprised to see 29 teams formed and a low attrition rate, with 24 teams submitting a project for the hackathon. We also liked the spread of projects
 covering various tracks, with the Patient Engagement track being a runaway hit with our teams this year. The dates for next year's hackathon haven't been decided yet.
 Our Instagram handle is "pitt_challenge" (https://www.instagram.com/pitt_challenge/).
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
