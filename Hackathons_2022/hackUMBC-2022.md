@@ -50,19 +50,19 @@ Hackers participated in one of four tracks: <b>Hardware</b>, <b>AI/ML</b>, <b>Da
 
 ## 📹 📸 Event Photos
 
-| <img src="https://drive.google.com/file/d/1P_IwwjNFq9ojfzPygdwJME1EdsAHoFLq/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Hackers attending a begginer friendly workshop!"/> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/blob/main/Hackathons_2022/images/hackUMBCworkshop.png" style="width: 500px; max-width: 100%; height: auto" title="Hackers attending a begginer friendly workshop!"/> |
 | :--:|
 | Hackers attending one of our beginner friendly workshops! |
 
-| <img src="https://drive.google.com/file/d/1Kd4StKG3gs4gwaMNd4rdanC1D2b6y2JH/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Hackers demoing their project!"/> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/blob/main/Hackathons_2022/images/hackUMBCdemos.png" style="width: 500px; max-width: 100%; height: auto" title="Hackers demoing their project!"/> |
 | :--:|
 | Hackers demoing their project! |
 
-| <img src="https://drive.google.com/file/d/1rWmxlTK6ddVLWANfjPJ91X2YgFaivb2b/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Hackers gathering for opening ceremony."/> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/blob/main/Hackathons_2022/images/hackUMBCopening.png" style="width: 500px; max-width: 100%; height: auto" title="Hackers gathering for opening ceremony."/> |
 | :--:|
 |Hackers gathering for the opening ceremony! |
 
-| <img src="https://drive.google.com/file/d/1nqmLS4JZeiJ-NQi76vIWkfkKE7t8k8Fq/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="First place winners!"/> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/blob/main/Hackathons_2022/images/hackUMBCwinners.png" style="width: 500px; max-width: 100%; height: auto" title="First place winners!"/> |
 | :--:|
 | Our first place winners! |
 
