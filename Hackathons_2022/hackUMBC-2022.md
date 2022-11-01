@@ -21,9 +21,10 @@ Hackers had an opportunity to attend 9 workshops, an MLH mini-event, annual smas
 ## 🌍 📚 Tech Impact / Diversity
 
 ### What genders did our hackers identify with?
-| Female | Male | Other |
-|---------------:|--------------:|------------:|
-|32%|67%|3%|
+| Female | Male | Prefer not to Answer | Other |
+|---------------:|--------------:|------------:|------------:|
+|28.2%|68.4%|2.3%|1.1%|
+|99|240|8|4|
 
 ### What race & ethnicities did our hackers identify as?
 | Hispanic/Latino | Asian | Black / African American | White / Caucasian | 2+ Races & Other |
