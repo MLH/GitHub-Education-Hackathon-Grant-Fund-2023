@@ -44,9 +44,6 @@ Similar to other in-person hackathons, HACKUIOWA provided lots of food and bever
 
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
 | <img src="https://pbs.twimg.com/media/FfSa5UpXgAIJ-Ru?format=jpg&name=4096x4096" width="500" height="auto"> |
 |:--:|
 | <b> Hackers doing what they are best at! </b>|
