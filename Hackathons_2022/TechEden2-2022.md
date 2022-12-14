@@ -64,12 +64,18 @@
 
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://drive.google.com/uc?export=view&id=1iK68PQmBBldqgenduLVCTY0LhAwMUOme" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Organising Team of TechEden 2.0! </b>|
+
+| <img src="https://drive.google.com/uc?export=view&id=1fp1lueeB0Hrewi4mVQLDhPk5urJWt2n-" width="500" height="auto"> |
+|:--:|
+| <b> Happy Participants </b>|
+
+| <img src="https://drive.google.com/uc?export=view&id=1zbjjNIjLtulq5BlQ2KHf237cQNjwV0Fa" width="500" height="auto"> |
+|:--:|
+| <b> Rewards Distribution </b>|
+
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
