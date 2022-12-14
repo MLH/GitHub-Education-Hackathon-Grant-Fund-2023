@@ -9,10 +9,11 @@
 
 - 9 Workshops ranging from Github to Data Science to Machine Learning
   - Including 4 Guest Workshops including a Bloomberg Terminal Demo and a Cyber Security Crash Course from RPI SEC
-- 5 Fun Mini-events Including:
+- 6 Fun Mini-events Including:
   - !Light
   - 2 CTFs
   - Trivia
+  - Puzzle Challenges
   - Movies
 - We hosted a GitHub Workshop right after the opening ceremony to kick off our event and get people started on the right foot
   - All submission were also hosted on github
@@ -47,9 +48,14 @@ The remaining 1.7% selected "other" and then proceeded to misspell ethnicities t
 |6.1%|93.5%|0.2% (UK)|0.2% (Brazil)|
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br> //TODO
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+- Realistically, you can run a hackathon with $0.00
+  - That doesn't mean you should
+    - With funding you can do far more and be far more successfull
+- HackRPI doesn't allocate specific funding sources to specific expenses
+- The fund the github grant went into was used for:
+  - Food (to keep hackers full, happy, & healthy)
+  - Venue & Janitorial Services (to give us a place to hold the event & keep the school happy)
+  - Stickers & Shirts (They aren't just keepsakes, these are critical for promoting the event to future students)
 
 ## Top Projects
 
@@ -63,12 +69,40 @@ The remaining 1.7% selected "other" and then proceeded to misspell ethnicities t
 
 ## Event Photos
 
-//TODO
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_recruiters.JPG" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_sponsers.JPG" width="100%" height="auto"> |
+|:--:|:--:|
+| <b> Hackers talk with recruiters from some of our sponsers </b>|
+
+| <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_working1.JPG" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_working2.JPG" width="100%" height="auto"> |
+|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_working3.JPG" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_working4.jpg" width="100%" height="auto"> |
+| <b> Hackers work on their projects throughout the day </b>|
+
+| <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_workshop.jpg" width="100%" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Hackers attend a workshop about bloomberg terminal </b>|
+
+| <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_dinner.jpg" width="100%" height="auto"> |
+|:--:|
+| <b> Hackers pause their hacking to grab dinner </b>|
+
+| <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_coffee_meeting.jpg" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_working.jpg" width="100%" height="auto"> |
+|:--:|:--:|
+| <b> Hackers discuss final details over breakfast </b>|
+
+| <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_demo.jpg" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_demo2.jpg" width="100%" height="auto"> |
+|:--:|:--:|
+| <b> After projects are due, hackers practice pitching their projects to each other </b>|
+
+| <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_troubleshooting.JPG" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_winner.JPG" width="100%" height="auto"> |
+|:--:|:--:|
+| <b> Of course, not every presentation goes smoothly, some need some live troubleshooting </b>| <b> Others do go well, like this one from our overall winner who traveled around the globe to come here for his first hackathon </b>|
+
+| <img src="https://raw.githubusercontent.com/tfinnm/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/hackrpi_hackers.jpg" width="100%" height="auto"> |
+|:--:|
+| <b> This photo of our groups that practiced their pitches together just scratches the surface of our 280+ hackers </b>|
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br> //TODO
+- HackRPI 2022 went very well and we can't wait for our all in-person, 10th aniversary hackathon next year!
 - Hack RPI 2023 is slated for next November
 - Follow us @hackrpi on instagram
