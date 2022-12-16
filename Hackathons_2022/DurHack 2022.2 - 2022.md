@@ -48,11 +48,11 @@ The GitHub Grant was very helpful in allowing us to secure catering for all our 
 
 ## Event Photos
 
-| <img src="https://drive.google.com/file/d/1U_kLq3h82JSPVkLbpV3U1jKNSk0Sr0_d/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://raw.githubusercontent.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/durhack_busy_hackers.jpg" width="100%" height="auto"> |
 |:--:|
 | <b> Busy hackers! </b>|
 
-| <img src="https://drive.google.com/file/d/1ZUEHq4sabXswdiD_39D2hMqgDpkZluO1/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://raw.githubusercontent.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/main/Hackathons_2022/images/durhack_demos.jpg" width="100%" height="auto"> |
 |:--:|
 | <b> Demos! </b>|
 
