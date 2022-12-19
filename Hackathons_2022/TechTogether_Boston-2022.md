@@ -11,9 +11,10 @@ What made your hackathon special or unique? <br>
 
 <br>Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
 - Our event had a variety of workshops and mentors that are specifically geared toward lowering the barrier to technology. It was a beginner-friendly hackathon and there was be volunteers and organizers to make sure that new or beginner hackers don't feel excluded or lost throughout the hackathon. One of the less technical workshops was geared towards teaching hackers about getting started on LinkedIn. There was also a workship featureing how to set up a website using GitHub Pages. 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/Hackathons_2022/images/TTB_workshop.jpg" width="500" height="auto"> |
-|:--:|
-| <b> A group of hackers at a workshop about making a resume website on GitHub Pages! </b>|
+
+ <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/blob/main/Hackathons_2022/images/TTB_workshop.jpg" width="500" height="auto"> 
+
+ <b> A group of hackers at a workshop about making a resume website on GitHub Pages! </b>
 
 
 ## Event Metrics 
@@ -64,13 +65,13 @@ Some of the coolest projects at the event<br>
 
 ## Event Photos
 
- <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/Hackathons_2022/images/TTB-17.jpg" width="500" height="auto"> 
+ <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/blob/main/Hackathons_2022/images/TTB-17.jpg" width="500" height="auto"> 
 
 
- <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/Hackathons_2022/images/TTB-24.jpg" width="500" height="auto"> 
+ <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/blob/main/Hackathons_2022/images/TTB-24.jpg" width="500" height="auto"> 
 
 
- <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/Hackathons_2022/images/TTB-42.jpg" width="500" height="auto"> 
+ <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/blob/main/Hackathons_2022/images/TTB-42.jpg" width="500" height="auto"> 
 
 
 ## What’s Next?
