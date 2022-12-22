@@ -23,6 +23,7 @@ We had also organised the "best use of GitHub" challenge as provided by MLH and 
 |---------------:|--------------:|------------:|
 |108*|78|[46](https://hack2educate.netlify.app/dashboard/hack2educate-submissions/<h3>ideation-st-b8b8a)|  
 > *exact attendance is 280+ as many hackers did not check in as they joined late and did not know that each team member had to fill the RSVP, this is based on the data we do have
+
 <img src="https://drive.google.com/uc?export=view&id=1_ECXvPcZrerLh3hgaho_aqD-lRuddR4N" width=480 height=auto>
 
 ## Tech Impact / Diversity 
@@ -54,24 +55,29 @@ Team Bug_Debug ([Github](https://github.com/TaniaChanana/bug_debug_hack2educate)
 Many teams who created web apps used the super helpful [HTML-Preview tool](https://github.com/htmlpreview/htmlpreview.github.com) to easily demo their MVPs directly through their Github repo!
 
 ## Event Photos
-| <img src="https://drive.google.com/uc?export=view&id=1L1vjXCmG-4x8kRGJXvoz5V6W6tH_nUdo"> | <img src="https://drive.google.com/uc?export=view&id=10F5TpjWJ9mGEJ3vDGaU7O3tYlWvsLTPM"> |
-|:--:|:--:|
-| <img src="https://drive.google.com/uc?export=view&id=1snRXGFyCHCLTEQWCcAg4jUIYYsGox6Wv"> | <img src="https://drive.google.com/uc?export=view&id=1XmXfrtI-9y2IMn4ymEd9ypKp9IuL6_w5"> |
-<p align=center> <b>|| Hackers' workstations ||</b> </p>
+ <p align=center> <b>  Hackers' workstations </b> </p>
+ <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2022/blob/main/Hackathons_2022/images/h2e_workstation_pic_01.jpeg"> 
+ <img src="https://drive.google.com/uc?export=view&id=10F5TpjWJ9mGEJ3vDGaU7O3tYlWvsLTPM"> 
+ <img src="https://drive.google.com/uc?export=view&id=1snRXGFyCHCLTEQWCcAg4jUIYYsGox6Wv">  
+ <img src="https://drive.google.com/uc?export=view&id=1XmXfrtI-9y2IMn4ymEd9ypKp9IuL6_w5"> 
 
+
+<p align=center> <b> Hackers having fun at our mini-events! </b></p>  
 <img src="https://drive.google.com/uc?export=view&id=1u6ZgPihXqExHPII6Tr13i2BVX4G13R_u">
-<p align=center>|| <b> Hackers having fun at our mini-events! </b>||</p>  
 
-| <img src="https://drive.google.com/uc?export=view&id=1p1Q6qLij1b8CnufQvCRY0vrVTg37v1xp"> | <img src="https://drive.google.com/uc?export=view&id=1i9T6YXhFeYcH4oyGMNgoCdYglgqocVHe"> |
-|:--:|:--:|
-<p align=center> <b>|| Interactions over Discord ||</b> </p>
+<p align=center> <b> Interactions over Discord </b> </p>
+ <img src="https://drive.google.com/uc?export=view&id=1p1Q6qLij1b8CnufQvCRY0vrVTg37v1xp"> 
+ <img src="https://drive.google.com/uc?export=view&id=1i9T6YXhFeYcH4oyGMNgoCdYglgqocVHe"> 
 
+
+<p align=center> <b> MS-Paint Bob-Ross event </b></p>  
 <img src="https://drive.google.com/uc?export=view&id=13G3nqnUAKQmR7-sy3_ClA_wuN89XlXXL">
-<p align=center>|| <b> MS-Paint Bob-Ross event </b>||</p>  
 
-| <img src="https://drive.google.com/uc?export=view&id=1L_guA_pBlrzm7JyHXIRPgoLpf6YpAD6A"> | <img src="https://drive.google.com/uc?export=view&id=18CO241e-EtHTdOjJbT8-nQjIk0sCc2Mk"> |
-|:--:|:--:|
-<p align=center> <b>|| Late night gaming events ||</b> </p>
+<p align=center> <b> Late night gaming events </b> </p>
+ <img src="https://drive.google.com/uc?export=view&id=1L_guA_pBlrzm7JyHXIRPgoLpf6YpAD6A"> 
+ <img src="https://drive.google.com/uc?export=view&id=18CO241e-EtHTdOjJbT8-nQjIk0sCc2Mk"> 
+
+
 
 ## What’s Next?
 Hack2Educate 2022 exceeded our expectations severalfold and we can't wait for our next edition to be held, hopefully in-person!
