@@ -75,24 +75,30 @@ This google extension is a time management tool to keep the user on task. The us
 
 I have difficulties uploading pictures. 
 
-![My Remote Image](https://drive.google.com/file/d/1AK6njUMmjVoNtmD2lZUjtzwWyDGad_km/view?usp=share_link).
+![My Remote Image]
+https://drive.google.com/file/d/1AK6njUMmjVoNtmD2lZUjtzwWyDGad_km/view?usp=share_link
+
 | <b> Getting work done! </b>|
 
 
-![My Remote Image](https://drive.google.com/file/d/1ZPJRPUckvdwvV8LlJTGXAmsAAEINrAp5/view?usp=share_link).
+![My Remote Image] https://drive.google.com/file/d/1ZPJRPUckvdwvV8LlJTGXAmsAAEINrAp5/view?usp=share_link
+
 | <b> A group of hackers hanging out! </b>|
 
 
 
-![My Remote Image](https://drive.google.com/file/d/1kBODnxE8YLs4oM3jX3TlSGWWjTXrrUE9/view?usp=share_link).
+![My Remote Image] https://drive.google.com/file/d/1kBODnxE8YLs4oM3jX3TlSGWWjTXrrUE9/view?usp=share_link
+
 | <b> So much to learn! </b>|
 
 
-![My Remote Image](https://drive.google.com/file/d/1B-lqgyQGge79upl8cm5_X9BGKhL4IQ1-/view?usp=share_link)
+![My Remote Image] https://drive.google.com/file/d/1B-lqgyQGge79upl8cm5_X9BGKhL4IQ1-/view?usp=share_link
+
 | <b> There is still time for fun! </b>|
 
 
-![My Remote Image](https://drive.google.com/file/d/1DHjffJtJeKrpH63qJX2oLodyufuDLXSF/view?usp=share_link)
+![My Remote Image] https://drive.google.com/file/d/1DHjffJtJeKrpH63qJX2oLodyufuDLXSF/view?usp=share_link
+
 | <b> Winning! </b>|
 
 
