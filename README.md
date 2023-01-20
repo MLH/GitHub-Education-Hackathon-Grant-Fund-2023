@@ -1,4 +1,4 @@
-# The GitHub Education Hackathon Grant Fund 2022
+# The GitHub Education Hackathon Grant Fund 2022-2023
 
 _Congratulations on hosting your **GitHub Grant** powered event through **MLH**._
 
@@ -8,10 +8,10 @@ _You can use this repository to document & celebrate your event highlights!_
 
 - Click on the README.md file and hit the `copy raw contents` icon.
   - It should look like two overlapping squares. 
-- Go back to the main repository landing page -> navigate to the `Hackathons_2022` folder and hit `Add File`. 
+- Go back to the main repository landing page -> navigate to the `Hackathons_2023` folder and hit `Add File`. 
 - We're going to be creating a new markdown file. 
 - The markdown file should be named ```{Your Hackathon Name}-{Year of Event}.md.``` 
-  - For example: ```AbstractHacks-2022.md```
+  - For example: ```AbstractHacks-2023.md```
 - Copy and paste the template raw contents and delete everything from lines 1-22.
 - Fill the markdown template in with your own event information and commit a new file. 
 - In the description, feel free to include a brief summary of your commit. 
