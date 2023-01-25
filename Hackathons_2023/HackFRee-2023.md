@@ -1,7 +1,5 @@
 
-# {HackFRee}
-> Provide a description of your event, including but _not_ limited to: <br>
-
+# HackFRee
  - **January 14-15, 2023** 
  - **Manalapan High School**
  - **Monmouth County, New Jersey**  
@@ -14,12 +12,11 @@ Throughout the weekend hackers were encouraged to work on projects that would he
 - GitHub was listed on our website as a sponsor and was mentioned during our opening and closing ceremonies. In addition, our mentors were helping hackers to get started with GitHub and many of our students used it for collaboration.  <br> 
 
 
-## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
+## Event Metrics  
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{215}|{85}|[{39}]([https://abstracthacks.devpost.com/project-gallery](https://hackfree-23.devpost.com/project-gallery))| 
+|215|85|[39](https://hackfree-23.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
@@ -30,13 +27,13 @@ Throughout the weekend hackers were encouraged to work on projects that would he
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
 |---------------:|--------------:|------------:|---------:|--------:|
-|{1}|{4}|{12}|{112}|{101}|
+|1|4|12|112|101|
 
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
 |---------------:|--------------:|------------:|---------:|
-|{0}|{215}|{0}|{0}|
+|0|215|0|0|
 
 ## Impact of GitHub Grant
 - Our team would not have been able to host our event without the help of the GitHub Grant. It was really a great relief when we were struggling for funding, and it ultimately allowed us to support more hackers than we expected. <br> 
