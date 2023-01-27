@@ -7,7 +7,7 @@
 ## Event Summary
 
 - What made your hackathon special or unique? <br> 
-- We had more than 40 communities as our community partners nearby our region to help us reach our target audience and help us in organizing the hackathon and also provide valuable feedback. We are the only hackathon that has been able to reach the community far and wide with the best tracks and innovations like the ticket system for mentors and fun events.
+- We had more than 40 communities as our community partners nearby our region who helped us reach our target audience and help us in organizing the hackathon and also provide valuable feedback. We are the only hackathon that has been able to reach the community here far and wide with the best tracks and innovations like the ticket system for mentors and fun events.
 
 - How was **GitHub** featured at your event? <br> 
 - 116 of 207 projects submitted for the Best Use of GitHub Challenge. You can check them out [here](https://hackodisha2022.devfolio.co/projects?prizes=Most+Creative+Use+of+GitHub&show_winners=false)
@@ -22,18 +22,14 @@
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
-
-### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+ 
+| Male | Female | Prefer not to say |
+|---------------:|------------:|------------:|
+|77.5%|22.3%|.2%| 
 
 
 ### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+Hackers came from 29 different universities, with the largest percent of 18.6% from the Bannari Amman Institute of Technology
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
@@ -46,16 +42,7 @@
 - We also want to see how hackers used GitHub at the event <br>
 - What made them special? _Include the link to their website, Devpost or video._
 
-## Event Photos
-
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
-|:--:|
-| <b> A group of hackers hanging out! </b>|
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+- Hackodisha brought together over 500 students over the weekend to create over 200 projects! While we have not picked a date for next year, you can keep updated by checking out our website at https://hackodisha2022.tech/ <br>
+ 
