@@ -39,8 +39,12 @@ Hackers came from 29 different universities, with the largest percent of 18.6% f
 ## Top Projects
 
 - What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+
+|Category | Project | Link to GitHub | Link to Devfolio|
+|---------------:|------------:|------------:|------------:|
+|Best Overall | InstaAid | https://github.com/CrazyDev2-0/instaaid | https://devfolio.co/projects/instaaid-463b|
+|Most Creative Use of GitHub | Medicord | https://github.com/iSundhararajan/health_record | https://devfolio.co/projects/medicord-6fca |
+|Best Beginner Hack | Womanity Decentralised Petitioner | https://github.com/ayushshaw90/Womanity-Full-stack-web3 | https://devfolio.co/projects/womanity-petitioner-aeee| 
 
 
 ## What’s Next?
