@@ -10,7 +10,7 @@
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|46|45|[7](https://fronterahacks.devpost.com/project-gallery)| 
+|62|45|[7](https://fronterahacks.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
@@ -21,7 +21,7 @@
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
 |---------------:|--------------:|------------:|---------:|--------:|
-|0|1|0|39|6|
+|0|2|51|1|8|
 
 
 ### Where were your hackers from?
