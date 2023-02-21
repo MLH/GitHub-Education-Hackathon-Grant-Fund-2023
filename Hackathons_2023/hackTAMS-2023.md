@@ -17,7 +17,7 @@ Throughout the hackathon, we hosted multiple guest speaker events featuring dist
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-| 88 | 61 | 29 (https://hacktams-2023.devpost.com/project-gallery)|
+| 88 | 61 | [29](https://hacktams-2023.devpost.com/project-gallery)|
 
 <br>
 <br>
@@ -66,23 +66,23 @@ Tons of creative, impactful projects were submitted to hackTAMS 2023! Here were 
 
 ## Event Photos
 
-<img src="https://drive.google.com/file/d/1yH66zfyLZmovfpg34v6RRTGjPpk81bhD/view?usp=share_link" width="500" height="auto" >
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/hacktams_cupstacking.jpg" width="500" height="auto" >
 <b> Cup stacking contest🏆 </b>
 <br>
 <br>
-<img src="https://drive.google.com/file/d/1zT07LVV3YFBxB8Xhc_2qsWJveSjoBpd9/view?usp=share_link" width="500" height="auto" >
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/hacktams_food.jpg" width="500" height="auto" >
 <b> Food is fuel💪 </b>
 <br>
 <br>
-<img src="https://drive.google.com/file/d/11DZGg3VabktNQcz8flxbGeBNWu3R5pEz/view?usp=share_link" width="500" height="auto" >
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/hacktams_hackershacking.jpg" width="500" height="auto" >
 <b> Hackers hacking!🧑‍💻 </b>
 <br>
 <br>
-<img src="https://drive.google.com/file/d/1_frPnqZ4zaXwPU26QUmVKh92Nsvq_v3s/view?usp=share_link" width="500" height"auto" >
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/hacktams_collegepanel.jpg" width="500" height"auto" >
 <b> College panel🎓 </b>
 <br>
 <br>
-<img src="https://drive.google.com/file/d/1C2A-Cqw2q7Xz_PROxBSBei2_lw_CK6Gz/view?usp=share_link" width="500" height"auto" >
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/hacktams_justdance.png" width="500" height"auto" >
 <b> Just dance🕺🏻 </b>
 
 <br>
