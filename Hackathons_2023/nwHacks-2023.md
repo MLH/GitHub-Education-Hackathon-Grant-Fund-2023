@@ -47,9 +47,9 @@ https://devpost.com/software/stride-fgj96v <br>
 https://devpost.com/software/vr-speech-simulator 
 
 ## Event Photos
-| <img src="https://user-images.githubusercontent.com/77176554/224211353-b0759719-dcb4-4b0e-ba87-2067e1e3a189.jpg" width="500" height="auto"> | <img src="https://user-images.githubusercontent.com/77176554/224211713-0fd9a820-376f-44c6-b147-3241041c06f3.jpg" width="500" height="auto"> |<img src="https://user-images.githubusercontent.com/77176554/224212035-12271eaa-83e2-4f65-b120-4962f220d010.jpg" width="500" height="auto"> |
-|:--:|:--:|:--:|
-| <b> The main hacking space </b>| <b> MLH Cup Stacking </b>| <b> Tetris Tournament </b>|
+| <img src="https://user-images.githubusercontent.com/77176554/224211353-b0759719-dcb4-4b0e-ba87-2067e1e3a189.jpg" width="500" height="auto"> | <img src="https://user-images.githubusercontent.com/77176554/224394432-f9a37e6e-5fbb-44d2-9b25-29ce145fe045.jpg" width="500" height="auto"> | <img src="https://user-images.githubusercontent.com/77176554/224211713-0fd9a820-376f-44c6-b147-3241041c06f3.jpg" width="500" height="auto"> |<img src="https://user-images.githubusercontent.com/77176554/224212035-12271eaa-83e2-4f65-b120-4962f220d010.jpg" width="500" height="auto"> |
+|:--:|:--:|:--:|:--:|
+| <b> The main hacking space </b>| <b> Top down view of our hackers </b> |<b> MLH Cup Stacking </b>| <b> Tetris Tournament </b>|
 
 ## What’s Next?
 - What are the dates for your future hackathon? <br>
