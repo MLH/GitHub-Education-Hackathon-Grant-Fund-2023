@@ -53,19 +53,19 @@ We were blown away by all of the cool projects our hackers were able to produce 
 
 ## Event Photos
 
-<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/athena_team_pic.png" width="500" height="auto" >
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/athena_team_pic.JPG" width="500" height="auto" >
 <b> AthenaHacks Team Pic! </b>
 <br>
 <br>
-<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/athena_happy_hackers.png" width="500" height="auto" >
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/athena_happy_hackers.JPG" width="500" height="auto" >
 <b> Happy Hackers </b>
 <br>
 <br>
-<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/athena_hackers_hacking.png" width="500" height="auto" > 
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/athena_hackers_hacking.JPG" width="500" height="auto" > 
 <b> Hackers Hacking </b>
 <br>
 <br>
-<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/athena_closing_ceremony.png" width="500" height="auto" >
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/athena_closing_ceremony.JPG" width="500" height="auto" >
 <b> Closing Ceremony </b>
 
 <br>
