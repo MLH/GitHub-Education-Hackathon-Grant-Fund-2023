@@ -1,6 +1,6 @@
 # SpartaHack 8
  - Januuary 28th - 29th, 2023
- - Michigan State University
+ - Michigan State University 
  - East Lansing, MI, USA
 
 ## Event Summary
