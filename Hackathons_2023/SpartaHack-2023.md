@@ -40,27 +40,27 @@ SpartaHack 8 proved to be a remarkable accomplishment as we were able to provide
 
 ## Event Photos
 
-| <img src="https://firebasestorage.googleapis.com/v0/b/spartahack8.appspot.com/o/images%2Fsh8_ceremony.jpg?alt=media&token=93f8d617-edac-4c31-8af6-4fd1a1128a50" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/sh8_ceremony.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Opening Ceremony! </b>|
 
-| <img src="https://firebasestorage.googleapis.com/v0/b/spartahack8.appspot.com/o/images%2Fsh8_chess.jpg?alt=media&token=c7da08b6-07e5-4729-b31b-f24db8112798" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/sh8_chess.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Hackers' Hangout Area! </b>|
 
-| <img src="https://firebasestorage.googleapis.com/v0/b/spartahack8.appspot.com/o/images%2Fsh8_first_place.jpg?alt=media&token=1e2934d8-f277-488c-ac4f-ba8c252a5688" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/sh8_first_place.jpg" width="500" height="auto"> |
 |:--:|
 | <b> First Place Winners! </b>|
 
-| <img src="https://firebasestorage.googleapis.com/v0/b/spartahack8.appspot.com/o/images%2Fsh8_hacking.jpg?alt=media&token=78e92d2e-4166-47fb-a88f-f438c4dd9745" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/sh8_hacking.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Hackers at Work! </b>|
 
-| <img src="https://firebasestorage.googleapis.com/v0/b/spartahack8.appspot.com/o/images%2Fsh8_presentations.jpg?alt=media&token=4b1932ec-c71c-442d-a885-9bf83acf023f" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/sh8_presentations.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Presentations! </b>|
 
-| <img src="https://firebasestorage.googleapis.com/v0/b/spartahack8.appspot.com/o/images%2Fsh8_sponsor_expo.jpg?alt=media&token=316c6240-123a-4aad-91ed-08a80c4b813e" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/sh8_sponsor_expo.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Sponsor Expo! </b>|
 
