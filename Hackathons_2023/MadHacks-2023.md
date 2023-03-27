@@ -22,27 +22,22 @@ MadHacks is a hackathon with a long, successful history in the Madison area and 
 93.3% of hackers go to The University of Wisconsin-Madison
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+We used these funds to expand the amount of people we could host at our event. We focused on making MadHacks the best possible experience, and funding helped us reach our goal number of participants while offering them proper meals and accommodations. 
+
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/409/199/datas/original.png" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b>First Place - [Open Accessibility](https://devpost.com/software/open-accessibility-aei3xm) - [Check it out on GitHub](https://github.com/MaxMaeder/Open-Accessibility)! </b>|
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/410/818/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b>Second Place - [FitQuest](https://devpost.com/software/fitquest-un4wm8) - [Check it out on GitHub!](https://github.com/Yajurva114/FitQuest.git) </b>|
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/410/177/datas/medium.png" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Third Place - [WisGo](https://devpost.com/software/wisgo) - [Check it out on GitHub!](https://github.com/jack-rabe/madhacks23) </b>|
 
 ## What’s Next?
 The date for the next iteration of MadHacks has not been decided, but you can follow on [Twitter](https://twitter.com/MadHacksUW) or [Instagram](https://www.instagram.com/MadHacksUW/) for updates!  
