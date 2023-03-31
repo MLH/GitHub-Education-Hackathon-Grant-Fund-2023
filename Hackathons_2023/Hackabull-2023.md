@@ -41,17 +41,17 @@ They used github to put all their project code and we used it to go through thei
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://drive.google.com/file/d/1uyCBEbkMB55vi6YWTfuaeVKHxnnk5tqI/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Hackabull_workshop.jpg" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers hanging out! </b>|
 
 
-| <img src="https://drive.google.com/file/d/1A2EOfB1Fm94RsSA8BXFvtGvSOxo7YQ8q/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Hackabull_winner.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Third prize winners! </b>|
 
 
-| <img src="https://drive.google.com/file/d/1y4AYBpSl7twUl-ng2ZCLaa9Rw_jQgyIn/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Hackabull_organizers.JPG" width="500" height="auto"> |
 |:--:|
 | <b> A photo of the Hackabull Organizers Team! </b>|
 
