@@ -8,11 +8,11 @@
 
 ## Event Summary
 
-- CatHacks is the biggest Hackathon in the state of Kentucky! The hacker community in Kentucky is growaing every year and we aime to make this community more inclusive and accessible. <br> 
-- We several workshops and mini-events planned thhroughout the hackthon. <br>
+- CatHacks is the biggest Hackathon in the state of Kentucky! The hacker community in Kentucky is growing every year, and we aim to make this community more inclusive and accessible. <br> 
+- We had several workshops and mini-events planned throughout the hackthon. <br>
     1. Introduction to Git and Github Workshop.
     2. Painting with Bob Ross
-    3. Presentation Karoake
+    3. Presentation Karaoke
     4. MLH Cup Stacking mini-event
     5. ACM-W + NSBE Diversity Workshop
     6. Earth Hacks Workshop
@@ -23,7 +23,7 @@
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|57|_Unkown_|18 [(Devpost)](https://cathacks-ix.devpost.com/project-gallery)| 
+|57|_Unknown_|18 [(Devpost)](https://cathacks-ix.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
@@ -43,14 +43,14 @@
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
--- The funds were used to cover all the prizes we have decided on for our participants. They also helped us cover the costs of setting up the the physical space and the associated janitorial services.
+-- The funds were used to cover all the prizes we have decided on for our participants. They also helped us cover the costs of setting up the physical space and the associated janitorial services.
 - How did the funds positively affect the outcomes of your event participants? <br>
 -- The funds played a crucial role in bringing the event together. Due to adequeate prizes, we had many hackers who came up with awesome ideas and used the prizes as a motivation. <br>
--- Github funds allowed us the money we raised from other sponsors to be used towawrds getting plenty food, drinks, and snacks so that the the hackers didn't have to worry about that and could focus hacking and having fun!
+-- Github funds allowed us the money we raised from other sponsors to be used towards getting plenty food, drinks, and snacks so that the hackers didn't have to worry about that and could focus hacking and having fun!
 
 
 ## Top Projects
-Even with a limited sample size, the spectrum of projects was amazing! We had people use Machine Learning, Web Devlopment, Game Development, Hardware hacks, and many more things withing these 24 hours! Here are some of the projects our judges loved (and we loved as well) and announced them as winners:
+Even with a limited sample size, the spectrum of projects was amazing! We had people use Machine Learning, Web Development, Game Development, Hardware hacks, and many more things withing these 24 hours! Here are some of the projects our judges loved (and we loved as well) and announced them as winners:
 
 - [**Cross-Stitch Maker**](https://devpost.com/software/cross-stitch-maker): A mobile app for Android that accepts images from the phone gallery, and allows you to produce a low-fidelity cross-stitch pattern using machine learning. The user is allowed to customize the size of their pattern, and the number of different colors of floss. All colors in the pattern map directly to real colors you can purchase at craft stores like Michaels!
 
@@ -60,9 +60,9 @@ Even with a limited sample size, the spectrum of projects was amazing! We had pe
 
 - [**Youniverse**](https://devpost.com/software/youniverse-frst6m): This website provides a daily 'challenge' to encourage users to complete at least one mental health activity each day.
 
-To keep the projects limited, we will not mention all the projects. But we strongly beleive that this all the project submissions this year were creative, innovative, and amazing to learn about.
+To keep the projects limited, we will not mention all the projects. But we strongly believe that this all the project submissions this year were creative, innovative, and amazing to learn about.
 
-All the listed projects above used Github to host and share their projects! All the listed projects above were built by teams, and we were happy to see teams collabrate on projects using Github. <br>
+All the listed projects above used Github to host and share their projects! All the listed projects above were built by teams, and we were happy to see teams collaborate  on projects using Github. <br>
 
 ## Event Photos
 
@@ -76,7 +76,7 @@ All the listed projects above used Github to host and share their projects! All 
 
 | <img src="./images/CatHacks-PresentationKaroake.jpg" width="500" height="auto"> |
 |:--:|
-| <b> Presentation Karoake Mini-Event </b>|
+| <b> Presentation Karaoke Mini-Event </b>|
 
 | <img src="./images/CatHacks-JudgingInSession.jpg" width="500" height="auto"> |
 |:--:|
@@ -97,6 +97,6 @@ All the listed projects above used Github to host and share their projects! All 
 
 
 ## What’s Next?
-- CatHacks IX was a great success for the hackers and the organizers. We saw more hackers attend CatHacks this year compared to previous year and saw more project submissions. The projects were diverse and amazing. CatHacks team feels that it was succefully able to provide its hackers with resources they needed for the hackathon! 
+- CatHacks IX was a great success for the hackers and the organizers. We saw more hackers attend CatHacks this year compared to previous year and saw more project submissions. The projects were diverse and amazing. CatHacks team feels that it was successfully able to provide its hackers with resources they needed for the hackathon! 
 - CatHacks X will tentatively be happening in April 2024, celebrating a decade of CatHacks! <br>
 - Twitter: https://twitter.com/UKCatHacks
