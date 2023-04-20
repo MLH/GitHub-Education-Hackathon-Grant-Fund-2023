@@ -23,7 +23,7 @@
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|57|_Unknown_|18 [(Devpost)](https://cathacks-ix.devpost.com/project-gallery)| 
+|57|14|18 [(Devpost)](https://cathacks-ix.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
