@@ -1,12 +1,10 @@
-# The GitHub Education Hackathon Grant Fund 2022-2023
-
-_Congratulations on hosting your **GitHub Grant** powered event through **MLH**._
-
-_You can use this repository to document & celebrate your event highlights!_
 # CatHacks IX, 2023
  - **April 14-45, 2023** 
  - **University of Kentucky, Association for Computing Machinery**
- - **Lexington, KY, USA**  
+ - **Lexington, KY, USA** 
+ 
+<img src="./images/CatHacks-logo.png" width="200" height="auto"> 
+
 
 ## Event Summary
 
@@ -68,29 +66,33 @@ All the listed projects above used Github to host and share their projects! All 
 
 ## Event Photos
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-IntroToGithub.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-IntroToGithub.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Intro to Git and Github Workshop </b>|
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-CupStacking.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-CupStacking.jpg" width="500" height="auto"> |
 |:--:|
 | <b> MLH Cup Stacking Mini-Event </b>|
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-PresentationKaroake.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-PresentationKaroake.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Presentation Karoake Mini-Event </b>|
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-JudgingInSession.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-JudgingInSession.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Judging in Session </b>|
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-ClosingCeremony.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-ClosingCeremony.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Closing Ceremony </b>|
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-FirstPlaceWinners.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-FirstPlaceWinners.jpg" width="500" height="auto"> |
 |:--:|
 | <b> First Place Winners </b>|
+
+| <img src="./images/CatHacks-Organizers.jpg" width="500" height="auto"> |
+|:--:|
+| <b> CatHacks Organizers </b>|
 
 
 
