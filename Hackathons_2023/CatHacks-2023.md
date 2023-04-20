@@ -11,44 +11,61 @@ _You can use this repository to document & celebrate your event highlights!_
 ## Event Summary
 
 - CatHacks is the biggest Hackathon in the state of Kentucky! The hacker community in Kentucky is growaing every year and we aime to make this community more inclusive and accessible. <br> 
-- We had many events at the hackathon that  <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+- We several workshops and mini-events planned thhroughout the hackthon. <br>
+    1. Introduction to Git and Github Workshop.
+    2. Painting with Bob Ross
+    3. Presentation Karoake
+    4. MLH Cup Stacking mini-event
+    5. ACM-W + NSBE Diversity Workshop
+    6. Earth Hacks Workshop
+    7. Jackbox Games mini-event
+- We had an "Introduction to Git and **GitHub**" workshop at the beginning of the event to encourage students to use Git and Github in their projects. We also referred hackers to the student developer pack by **GitHub** when they were trying to find technologies offered by the student developer pack. <br> 
 
 ## Event Metrics 
 > Feel free to include any other metrics that you think may be important or applicable. 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+|57|_Unkown_|18 [(Devpost)](https://cathacks-ix.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
+ - Our target audience was the hacker community either in Kentucky or close to Kentucky. Because there are no other major hackathons in the region, we aim to provide a place that is close in proximity for people from all backgrounds to hack, learn, and have fun! <br>
 
-### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+### Event Diversity Breakdown
+| Male | Female | Non-binary/Non-conforming | Transgender | 
+|---------------:|--------------:|------------:|---------:|
+|43|10|3|1| 
 
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
 |---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+|0|57|0|0|
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
+-- The funds were used to cover all the prizes we have decided on for our participants. They also helped us cover the costs of setting up the the physical space and the associated janitorial services.
 - How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+-- The funds played a crucial role in bringing the event together. Due to adequeate prizes, we had many hackers who came up with awesome ideas and used the prizes as a motivation. <br>
+-- Github funds allowed us the money we raised from other sponsors to be used towawrds getting plenty food, drinks, and snacks so that the the hackers didn't have to worry about that and could focus hacking and having fun!
+
 
 ## Top Projects
+Even with a limited sample size, the spectrum of projects was amazing! We had people use Machine Learning, Web Devlopment, Game Development, Hardware hacks, and many more things withing these 24 hours! Here are some of the projects our judges loved (and we loved as well) and announced them as winners:
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+- [**Cross-Stitch Maker**](https://devpost.com/software/cross-stitch-maker): A mobile app for Android that accepts images from the phone gallery, and allows you to produce a low-fidelity cross-stitch pattern using machine learning. The user is allowed to customize the size of their pattern, and the number of different colors of floss. All colors in the pattern map directly to real colors you can purchase at craft stores like Michaels!
+
+- [**WarPaint Robots**](https://devpost.com/software/totally-not-fireboy-and-watergirl): Local multiplayer game where two players run around platforms racing to get coins with a portal twist. <br> 
+
+- [**Melody Map**](https://devpost.com/software/melody-map-24wtxn): Oftentimes at music festivals there can be an overwhelming amount of artists, times, and locations. Our goal is to simplify this experience by taking user data to recommend a music festival map. !
+
+- [**Youniverse**](https://devpost.com/software/youniverse-frst6m): This website provides a daily 'challenge' to encourage users to complete at least one mental health activity each day.
+
+- To keep the projects limited, we will not mention all the projects. But we strongly beleive that this all the project submissions this year were creative, innovative, and amazing to learn about.
+
+- All the listed projects above used Github to host and share their projects! All the listed projects above were built by teams, and we were happy to see teams collabrate on projects using Github. <br>
 
 ## Event Photos
 
