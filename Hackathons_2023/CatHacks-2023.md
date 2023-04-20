@@ -22,7 +22,6 @@ _You can use this repository to document & celebrate your event highlights!_
 - We had an "Introduction to Git and **GitHub**" workshop at the beginning of the event to encourage students to use Git and Github in their projects. We also referred hackers to the student developer pack by **GitHub** when they were trying to find technologies offered by the student developer pack. <br> 
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
@@ -63,20 +62,39 @@ Even with a limited sample size, the spectrum of projects was amazing! We had pe
 
 - [**Youniverse**](https://devpost.com/software/youniverse-frst6m): This website provides a daily 'challenge' to encourage users to complete at least one mental health activity each day.
 
-- To keep the projects limited, we will not mention all the projects. But we strongly beleive that this all the project submissions this year were creative, innovative, and amazing to learn about.
+To keep the projects limited, we will not mention all the projects. But we strongly beleive that this all the project submissions this year were creative, innovative, and amazing to learn about.
 
-- All the listed projects above used Github to host and share their projects! All the listed projects above were built by teams, and we were happy to see teams collabrate on projects using Github. <br>
+All the listed projects above used Github to host and share their projects! All the listed projects above were built by teams, and we were happy to see teams collabrate on projects using Github. <br>
 
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-IntroToGithub.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Intro to Git and Github Workshop </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-CupStacking.jpg" width="500" height="auto"> |
+|:--:|
+| <b> MLH Cup Stacking Mini-Event </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-PresentationKaroake.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Presentation Karoake Mini-Event </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-JudgingInSession.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Judging in Session </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-ClosingCeremony.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Closing Ceremony </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/CatHacks-FirstPlaceWinners.jpg" width="500" height="auto"> |
+|:--:|
+| <b> First Place Winners </b>|
+
+
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+- CatHacks IX was a great success for the hackers and the organizers. We saw more hackers attend CatHacks this year compared to previous year and saw more project submissions. The projects were diverse and amazing. CatHacks team feels that it was succefully able to provide its hackers with resources they needed for the hackathon! 
+- CatHacks X will tentatively be happening in April 2024, celebrating a decade of CatHacks! <br>
+- Twitter: https://twitter.com/UKCatHacks
