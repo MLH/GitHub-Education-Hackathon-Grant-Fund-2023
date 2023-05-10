@@ -51,31 +51,31 @@ All the projects have their GitHub repositories linked, so feel free to check ou
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below:
 
-| <img src="https://imgur.com/pEX6LHR" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/wild-opening.jpeg" width="500" height="auto"> |
 | :----------------------------------------------------------------------------------------------------------------: |
 |                                      <b> Our opening ceremony! </b>                                      |
 
-| <img src="https://imgur.com/FGOaYNK" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/wild-bagel.jpeg" width="500" height="auto"> |
 | :----------------------------------------------------------------------------------------------------------------: |
 |                                      <b> Breakfast from Einstein Bro's 🥯 </b>                                      |
 
-| <img src="https://imgur.com/yc8dE0G" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/wild-work.jpeg" width="500" height="auto"> |
 | :----------------------------------------------------------------------------------------------------------------: |
 |                                      <b> Hackers hard at work </b>                                      |
 
-| <img src="https://imgur.com/8f52mSY" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/wild-chess.jpeg" width="500" height="auto"> |
 | :----------------------------------------------------------------------------------------------------------------: |
 |                                      <b> Hand-brain chess tournament </b>                                      |
 
-| <img src="https://imgur.com/R7iGXV6" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/wild-cookie.jpeg" width="500" height="auto"> |
 | :----------------------------------------------------------------------------------------------------------------: |
 |                                      <b> Hackers getting late-night Insomnia cookies! </b>                                      |
 
-| <img src="https://imgur.com/biOc2Qt" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/wild-grandprize.jpeg" width="500" height="auto"> |
 | :----------------------------------------------------------------------------------------------------------------: |
 |                                      <b> Our grand-prize winning teams! </b>                                      |
 
-| <img src="https://imgur.com/hIZR8K0" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/wild-organizers.jpeg" width="500" height="auto"> |
 | :----------------------------------------------------------------------------------------------------------------: |
 |                                      <b> Our WildHacks 2023 Organizers </b>                                      |
 
