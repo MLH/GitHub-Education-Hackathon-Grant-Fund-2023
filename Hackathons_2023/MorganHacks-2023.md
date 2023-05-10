@@ -35,9 +35,41 @@ The GitHub Grant funds helped cover the cost of meals for attendees.
 
 ## Top Projects
 
-At the end of the hackathon, the 1st Overall MorganHacks winner, the PlanetPledge Team  received an award of $3,000 and also won 1st Place Ripple Challenge with an award of $6,000 XRP. The members were Adeloye Ibukunoluwa, Ivan Ibhawoh, and Jeneel Farrell. The 2nd Overall winner, Truth Talks Team, received an award of $3,000 while also placing 2nd in the Ripple Challenge with an award of $2,000 XR. The members were Kennedi Freeman, Ashley Pryor, Ajaleigh Simpson, and Isaiah Scott. The 3rd Overall, Team Rise Above won an award of $1,500 as well as placing 2nd in the Gener8tor Challenge with an award of $500. The team members were Sanae Freema, Terell Reed, Jaavon Matthews, and Toluwanimi Ayodele. 
+At the end of the hackathon, the 1st Overall MorganHacks winner, the PlanetPledge Team  received an award of $3,000 and also won 1st Place Ripple Challenge with an award of $6,000 XRP. The members were Adeloye Ibukunoluwa, Ivan Ibhawoh, and Jeneel Farrell. 
 
-Other categories included the Best Education Hack with an award of $250, won by MentorMe Team 5, the members being Morayo Adeyemi and Khandie Anijah-Obi. The Best Health Hack and also the 3rd Place Ripple Challenge with an award of $250 was won by GeneID Team 16; and the team members included Anthony Madu, Tyler Austin, Fortune Uwaoma, and Clyde Baidoo. AAC Team 3 won the Best Sustainability Hack with an award of $250, and the team members were Calvin-Caleb Amiolemen, Tanayah Hornick, Chenilyn Joy Espineda, and Jayden Briggs-Belt. Connect Impact Team 6 won the 1st Gener8tor Challenge with an award of $1,000, and the members were Ife Martin, Bryce Gordon-Pinkston, and Haithem Amir. AI-HR Impact Team 14 won the MLH TWilio Prize and MLH Domain.com, and the team members included Chinat Yu and Kevin Zhang. Transit Tech Team 10 won the MLH Avanade, and the members were Eddy Koundjou, Christopher Perez Lebron, and Ekene Onoh. Safeway BoT Team 7 won the MLH GitHub with just one member Akhil Binoy.
+The 2nd Overall winner, Truth Talks Team, received an award of $3,000 while also placing 2nd in the Ripple Challenge with an award of $2,000 XR. The members were Kennedi Freeman, Ashley Pryor, Ajaleigh Simpson, and Isaiah Scott. 
+
+The 3rd Overall, Team Rise Above won an award of $1,500 as well as placing 2nd in the Gener8tor Challenge with an award of $500. The team members were Sanae Freema, Terell Reed, Jaavon Matthews, and Toluwanimi Ayodele. 
+
+Other categories included
+
+Best Education Hack with an award of $250, won by MentorMe Team 5, the members being Morayo Adeyemi and Khandie Anijah-Obi. 
+
+The Best Health Hack and also the 3rd Place Ripple Challenge with an award of $250 was won by GeneID Team 16; and the team members included Anthony Madu, Tyler Austin, Fortune Uwaoma, and Clyde Baidoo. 
+
+AAC Team 3 won the Best Sustainability Hack with an award of $250, and the team members were Calvin-Caleb Amiolemen, Tanayah Hornick, Chenilyn Joy Espineda, and Jayden Briggs-Belt. 
+
+Connect Impact Team 6 won the 1st Gener8tor Challenge with an award of $1,000, and the members were Ife Martin, Bryce Gordon-Pinkston, and Haithem Amir. 
+
+AI-HR Impact Team 14 won the MLH TWilio Prize and MLH Domain.com, and the team members included Chinat Yu and Kevin Zhang. 
+
+Transit Tech Team 10 won the MLH Avanade, and the members were Eddy Koundjou, Christopher Perez Lebron, and Ekene Onoh. 
+
+Safeway BoT Team 7 won the MLH GitHub with just one member Akhil Binoy.
+
+Check them all out on Devpost! We are including a few highlights here: 
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/435/883/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b> [Safeway BoT](https://devpost.com/software/safewaybot-eik09c) - [Check Me out on GitHub!](https://github.com/akhil888binoy/SafeWayBot) </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/438/853/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b>[ AI-HR ](https://devpost.com/software/ai-hr)- [Check Me out on GitHub!](https://github.com/cyu60/AI-HR) </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/438/884/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b>[ MentorMe](https://devpost.com/software/mentorme-wv7lyk) - [Check Me out on GitHub!](https://github.com/danielle34/mentorme) </b>|
 
 
 ## Event Photos
