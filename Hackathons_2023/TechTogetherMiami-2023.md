@@ -46,9 +46,17 @@ The GitHub Education Grant helped cover the cost of food for the event. The venu
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+| <img src="https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif" width="500" height="auto"> |
+|:--:|
+| <b> [Nessie Bank](https://devpost.com/software/nessie-bank) - Check it out on [GitHub](https://github.com/LeanneNelson/TechTogetherNessie)! </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/471/685/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b> [Waste-To-Wow](https://devpost.com/software/waste-to-wow) - Check it out on [GitHub](https://github.com/ChefOmarDee/waste-to-wow)! </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/471/661/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b> [Cyber Vigilante](https://devpost.com/software/cyber-vigilante) - Check it out on [GitHub](https://github.com/miamihackathon23/cyberhack)! </b>|
 
 ## Event Photos
 
