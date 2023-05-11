@@ -5,10 +5,7 @@
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+- TechTogether focuses on redefining the hacker stereotype by focus on supporting marginalized genders. TechTogether events are across the US, with local organizers in each chapter forging the path for the planning and execution of the event. TechTogether Miami was at Miami Dale College, and was a weekend full of learning and creating projects that hackers were passionate about. This event was more difficult in particular due to venue rules and restrictions, but the team worked together so that hackers had the best experience they could while there. 
 
 ## Event Metrics 
 
@@ -25,8 +22,11 @@
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
+There were 2 data points here that you might be interested in. While on a surface level they are similar, I wanted to add them so those reading could see the diverse group attending this event. 
+
+| Transgender | Non-Binary/Third-Gender | Woman | Man |
+|---------------:|------------:|------------:|------------:|
+|2.9%|22.9%|71.4%|2.9%|
 
 | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20Miami%20Gender.png" height="auto"> |
 |:--:|
@@ -42,9 +42,7 @@
 |:--:|
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+The GitHub Education Grant helped cover the cost of food for the event. The venue had rules on where hackers could eat, and having good meals was important so that hackers were fueled over the weekend. 
 
 ## Top Projects
 
