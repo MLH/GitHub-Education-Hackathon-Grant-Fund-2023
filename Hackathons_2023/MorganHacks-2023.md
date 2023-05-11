@@ -73,22 +73,24 @@ Check them all out on Devpost! We are including a few highlights here:
 
 
 ## Event Photos
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
-|:--:|
-| <b> A group of hackers hanging out! </b>|
+You can check out all our photos [here](https://drive.google.com/drive/folders/14vdd2ApSjhNzKi8SuwgSfRr7CUyHRpF4)!
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/morgancupstacking.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> A group of hackers taking a break with cupstacking! </b>|
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/morganhackersbrainstorming.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> A group of hackers brainstorming! </b>|
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/morganhackersgettingfuel.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> A group of hackers getting fuel! </b>|
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/morganhackerslearning.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Hackers Learning! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/morganhangingout.jpg" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers hanging out! </b>|
