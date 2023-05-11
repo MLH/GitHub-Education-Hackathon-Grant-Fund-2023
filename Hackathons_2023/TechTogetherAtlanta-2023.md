@@ -5,10 +5,7 @@
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+- TechTogether focuses on redefining the hacker stereotype by focus on supporting marginalized genders. TechTogether events are across the US, with local organizers in each chapter forging the path for the planning and execution of the event. TechTogether Atlanta was at Georgia Tech, and was a weekend full of learning and creating projects that hackers were passionate about. 
 
 ## Event Metrics 
 
@@ -26,8 +23,11 @@
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
+There were 2 data points here that you might be interested in. While on a surface level they are similar, I wanted to add them so those reading could see the diverse group attending this event. 
+
+| Transgender/Agender | Non-Binary/Third-Gender | Genderqueer | Woman | Man |Prefer to self-describe |
+|---------------:|------------:|------------:|------------:|------------:|------------:|
+|2.3%|9%|4.5%|45.5%|11.4%|2.3%| 
 
 | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20Atlanta%20Gender.png" height="auto"> |
 |:--:|
@@ -46,9 +46,7 @@
 
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+This event had a very tight budget due to venue restrictions requiring food to be purchased from university catering. The GitHub Education Grant allowed flexibility and the ability to get a variety of healthy snack like nuts and more seltzer options instead of just soda. 
 
 ## Top Projects
 
