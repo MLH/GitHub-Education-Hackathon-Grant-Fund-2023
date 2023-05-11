@@ -50,9 +50,17 @@ This event had a very tight budget due to venue restrictions requiring food to b
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/462/180/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b> [What's Your Story](https://devpost.com/software/change-your-path-or-not) - Check it out on [GitHub](https://github.com/Simi0M0/WhatsYourStory)! </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/463/572/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b> [FrugalFrienZ](https://devpost.com/software/frugalfrienz) - Check it out on [GitHub](https://github.com/YulduzM1/FrugalFrenzy)! </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/462/094/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
 
 ## Event Photos
 
