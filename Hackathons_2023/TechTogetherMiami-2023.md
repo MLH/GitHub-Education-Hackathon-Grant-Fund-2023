@@ -5,7 +5,7 @@
 
 ## Event Summary
 
-- TechTogether focuses on redefining the hacker stereotype by focus on supporting marginalized genders. TechTogether events are across the US, with local organizers in each chapter forging the path for the planning and execution of the event. TechTogether Miami was at Miami Dale College, and was a weekend full of learning and creating projects that hackers were passionate about. This event was more difficult in particular due to venue rules and restrictions, but the team worked together so that hackers had the best experience they could while there. 
+TechTogether focuses on redefining the hacker stereotype by focus on supporting marginalized genders. TechTogether events are across the US, with local organizers in each chapter forging the path for the planning and execution of the event. TechTogether Miami was at Miami Dale College, and was a weekend of career fair, three workshops and creating projects that hackers were passionate about. This event was more difficult due to the date being close to May as students have traveled to their internships, out-of-state, or did not have transportation to the event, but the team that did arrive worked together so that hackers had the best experience they could while there. We had mentors from INIT and Society of Hispanic Professional Engineers at MDC who helped students with any questions about their projects. We had a professional development workshop that was hosted by Women in Technology at MDC to teach students how to pitch themsdelvfes and helpe create a presentation for their project expo. Organizers were available all day to help students, even overnight so we have hosted mini-events such as Draw Your Byte Competition and enjoyed a quick Spa Time to help relax the hackers.Miami Dade College has opened up their resources and venue with no restrictions, and welcomed all students to come to TechTogether Miami and participate.
 
 ## Event Metrics 
 
@@ -71,6 +71,8 @@ The GitHub Education Grant helped cover the cost of food for the event. The venu
 | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/ttmiamiworkingspace.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Hacking Space </b>|
+
+More pictures are included in the following Google Drive (Taken by our TTM Organizer): https://drive.google.com/drive/folders/1drVpmORzhACkDWdl208nNn-j7qIJRWie?usp=share_link
 
 ## What’s Next?
 - Keep up with us on socials!
