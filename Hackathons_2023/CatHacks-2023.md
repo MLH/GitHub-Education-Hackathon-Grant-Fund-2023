@@ -1,5 +1,5 @@
 # CatHacks IX, 2023
- - **April 14-45, 2023** 
+ - **April 14-15, 2023** 
  - **University of Kentucky, Association for Computing Machinery**
  - **Lexington, KY, USA** 
  
