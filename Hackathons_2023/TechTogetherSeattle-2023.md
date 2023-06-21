@@ -13,7 +13,7 @@ TechTogether focuses on redefining the hacker stereotype by focus on supporting 
 |---------------:|------------:|
 |105|[20](https://techtogether-seattle-2023.devpost.com/project-gallery)| 
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/images/TechTogether%20Seattle%20Level%20of%20Study.png" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20Seattle%20Level%20of%20Study.png" height="auto"> |
 |:--:|
 
 | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20Seattle%20Majors.png" height="auto"> |
