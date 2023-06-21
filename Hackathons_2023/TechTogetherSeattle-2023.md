@@ -43,17 +43,17 @@ These funds helped cover the cost of dietary restriction meals the day of the ev
 
 ## Top Projects
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/480/175/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+| <b> [Think Twice](https://devpost.com/software/think-twice-ebmjlx) - Check it out on [GitHub](https://github.com/ReginaLin2005/think-twice-chrome-extension)! </b>|
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/480/974/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+| <b> [TimeSlice](https://devpost.com/software/timeslice) - Check it out on [GitHub](https://github.com/mxddi/TimeSlice/blob/main/README.md)! </b>|
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/479/945/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+| <b> [beURSAlingo](https://devpost.com/software/beursalingo) - Check it out on [GitHub](https://github.com/tiredwren/beURSAlingo)! </b>|
 
 
 ## Event Photos
