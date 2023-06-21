@@ -43,20 +43,43 @@ These funds helped cover the cost of dietary restriction meals the day of the ev
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+
 
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
+You can see more photos [here](https://majorleaguehacking.smugmug.com/Event-Photos/TechTogether-Sea/n-fRhWp3/)!
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTS_accessability_winners.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Accessibility Challenge Winners </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTS_demos.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Demos! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTS_hackers_hacking.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Hackers Hacking </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTS_hello_hackers.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Hello Hackers! </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTS_workshop.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Workshop </b>|
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+Keep up with us on Socials!
+- [Twitter](https://twitter.com/TechTogetherSea) & [Instagram](https://www.instagram.com/techtogetherseattle/?hl=en)  
