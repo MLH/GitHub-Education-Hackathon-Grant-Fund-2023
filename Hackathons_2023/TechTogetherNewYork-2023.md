@@ -42,19 +42,20 @@ These funds directly impacted the ability of the event to get food that met the 
 
 ## Top Projects
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/490/983/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+| <b> [GitStar](https://devpost.com/software/gitstar-k83sg5) - Check it out on [GitHub](https://github.com/Alphois/GitStar)! </b>|
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/492/476/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+| <b> [Healthxpert](https://devpost.com/software/healthxpert-psq0yh) - Check it out on [GitHub](https://github.com/SurekhaSuresh/healthxpert)! </b>|
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/490/971/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+| <b> [RecycleAI](https://devpost.com/software/recycleai-g68p4v) - Check it out on [GitHub](https://github.com/audgeviolin07/TechRecycle)! </b>|
 
 ## Event Photos
+You can see more photos [here](https://majorleaguehacking.smugmug.com/Event-Photos/n-NPgDC8/TechTogether-New-York23/)!
 
 | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTNY_cybersecurity_workshop.jpg" width="500" height="auto"> |
 |:--:|
