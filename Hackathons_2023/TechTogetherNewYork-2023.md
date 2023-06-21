@@ -5,7 +5,7 @@
 
 ## Event Summary
 
-TechTogether focuses on redefining the hacker stereotype by focus on supporting marginalized genders. TechTogether events are across the US, with local organizers in each chapter forging the path for the planning and execution of the event. TechTogether Seattle was at St. John's University, and was a weekend full of learning and creating projects that hackers were passionate about. This event had a special cybersecurity focus, with a demo of the lab at St. John's! 
+TechTogether focuses on redefining the hacker stereotype by focus on supporting marginalized genders. TechTogether events are across the US, with local organizers in each chapter forging the path for the planning and execution of the event. TechTogether Seattle was at St. John's University, and was a weekend full of learning and creating projects that hackers were passionate about. This event had a special cybersecurity focus, with a demo of the lab at St. John's! There was also specifically an Intro to Git Workshop, which highlighted how to use git and how to use GitHub desktop to collaborate with team members. 
 
 ## Event Metrics 
 
@@ -56,27 +56,27 @@ These funds directly impacted the ability of the event to get food that met the 
 
 ## Event Photos
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTNY_cybersecurity_workshop.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Cybersecurity Lab / Workshop </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTNY_demos.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Demos! </b>|
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTNY_hackers_hacking.jpg" width="500" height="auto"> |
 |:--:|
-| <b> Demos! </b>|
+| <b> Hackers Hacking </b>|
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTNY_sharing_ideas.jpg" width="500" height="auto"> |
 |:--:|
-| <b> Demos! </b>|
+| <b> Sharing Ideas </b>|
 
-| <img src="" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TTNY_workshop.jpg" width="500" height="auto"> |
 |:--:|
-| <b> Demos! </b>|
-
-| <img src="" width="500" height="auto"> |
-|:--:|
-| <b> Demos! </b>|
+| <b> Workshop </b>|
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+Keep up with us on Socials: 
+
+-[Twitter](https://twitter.com/techtogetherny?lang=en) & [Instagram](https://www.instagram.com/techtogethernewyork/?hl=en) 
