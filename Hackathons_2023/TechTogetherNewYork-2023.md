@@ -5,34 +5,36 @@
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+TechTogether focuses on redefining the hacker stereotype by focus on supporting marginalized genders. TechTogether events are across the US, with local organizers in each chapter forging the path for the planning and execution of the event. TechTogether Seattle was at St. John's University, and was a weekend full of learning and creating projects that hackers were passionate about. This event had a special cybersecurity focus, with a demo of the lab at St. John's! 
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
-| Attendees |First Time Hackers| Projects|
-|---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+| Attendees | Projects|
+|---------------:|------------:|
+|85|[22](https://techtogether-nyc-2023.devpost.com/project-gallery)| 
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20New%20York%20Level%20of%20Study.png" height="auto"> |
+|:--:|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20New%20York%20Majors.png" height="auto"> |
+|:--:|
 
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20New%20York%20Gender%20Distribution.png" height="auto"> |
+|:--:|
 
 ### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
 
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20New%20York%20Race%20or%20Ethnicity.png" height="auto"> |
+|:--:|
 
 ### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20New%20York%20Schools.png" height="auto"> |
+|:--:|
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
@@ -40,18 +42,39 @@ These funds directly impacted the ability of the event to get food that met the 
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
+
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> [weBudget](https://devpost.com/software/webudget-2g59nm) - Check it out on [GitHub](https://github.com/ArushiAggarwal/weBudget)! </b>|
 
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Demos! </b>|
+
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> Demos! </b>|
+
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> Demos! </b>|
+
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> Demos! </b>|
+
+| <img src="" width="500" height="auto"> |
+|:--:|
+| <b> Demos! </b>|
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
