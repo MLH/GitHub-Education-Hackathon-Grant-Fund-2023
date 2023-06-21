@@ -5,34 +5,36 @@
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+TechTogether focuses on redefining the hacker stereotype by focus on supporting marginalized genders. TechTogether events are across the US, with local organizers in each chapter forging the path for the planning and execution of the event. TechTogether Seattle was at Bellvue College, and was a weekend full of learning and creating projects that hackers were passionate about. 
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
-| Attendees |First Time Hackers| Projects|
-|---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+| Attendees | Projects|
+|---------------:|------------:|
+|105|[20](https://techtogether-seattle-2023.devpost.com/project-gallery)| 
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/images/TechTogether%20Seattle%20Level%20of%20Study.png" height="auto"> |
+|:--:|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20Seattle%20Majors.png" height="auto"> |
+|:--:|
 
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20Seattle%20Gender%20Distribution%20(1).png" height="auto"> |
+|:--:| 
 
 ### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
 
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20Seattle%20Race%20or%20Ethnicity.png" height="auto"> |
+|:--:|
 
 ### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/TechTogether%20Seattle%20Schools.png" height="auto"> |
+|:--:|
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
