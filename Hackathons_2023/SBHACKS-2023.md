@@ -19,7 +19,7 @@ Almost all of the projects submitted at our hackathon used Github! In addition, 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{150}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+|{150}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://sb-hacks-ix.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
@@ -63,6 +63,5 @@ HireAI: https://devpost.com/software/hireai
 
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+- We hope to keep expanding our hackathon and hold our 10th iteration in Winter 2024!
+- Follow us on IG @sbhacks  
