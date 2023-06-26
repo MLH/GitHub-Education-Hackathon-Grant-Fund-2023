@@ -1,4 +1,4 @@
-# SB HACKS
+# SB HACKS IX
 > Provide a description of your event, including but _not_ limited to: <br>
  - **May 13-14** 
  - **University of California, Santa Barbara**
@@ -19,7 +19,7 @@ Almost all of the projects submitted at our hackathon used Github! In addition, 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{150}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://sb-hacks-ix.devpost.com/project-gallery)| 
+|150|65|(https://sb-hacks-ix.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
@@ -31,13 +31,13 @@ Almost all of the projects submitted at our hackathon used Github! In addition, 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
 |---------------:|--------------:|------------:|---------:|--------:|
-|{1}|{0}|{5}|{112}|{18}|
+|1|0|5|112|18|
 
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
 |---------------:|--------------:|------------:|---------:|
-|{0}|{150}|{0}|{0}|
+|0|150|0|0|
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
@@ -54,12 +54,22 @@ Tablify: https://devpost.com/software/tablify-v1562o
 HireAI: https://devpost.com/software/hireai
 
 ## Event Photos
-
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/SBHACKS-Hackers.jpeg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Hackers hanging out </b>|
 
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/SBHACKS-TouchTank1.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Sea Urchin at the Touch Tanks  </b>|
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/SBHACKS-TouchTank2.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Touch Tank Event  </b>|
+
+
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/SBHACKS-CupStacking.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> MLH Cupstacking </b>|
 
 
 ## What’s Next?
