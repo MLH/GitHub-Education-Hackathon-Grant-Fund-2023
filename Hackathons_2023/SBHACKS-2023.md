@@ -62,7 +62,7 @@ HireAI: https://devpost.com/software/hireai
 |:--:|
 | <b> Sea Urchin at the Touch Tanks  </b>|
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/SBHACKS-TouchTank2.jpeg" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/SBHACKS-TouchTanks2.jpeg" width="500" height="auto"> |
 |:--:|
 | <b> Touch Tank Event  </b>|
 
