@@ -1,5 +1,5 @@
-# {Your Hackathon Name}
-> Provide a description of your event, including but _not_ limited to: <br>
+# Wittyhacks 3.0
+> Wittyhacks prides itself on being Central India’s biggest community hackathon. Since its inception in 2018, Wittyhacks has been a platform where technology leaders and the brightest minds come together to collaborate on building tools that solve real problems. <br>
  - **Start and end dates of your event** 
  - **University Name / Organization Name**
  - **Country, State or Province, City**  
