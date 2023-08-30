@@ -75,9 +75,13 @@
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
-|:--:|
-| <b> A group of hackers hanging out! </b>|
+| <img src="https://github.com/mrinaljain/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2023/images/wh_5.JPG" width="500" height="auto"> | <img src="https://github.com/mrinaljain/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2023/images/wh_2.JPG" width="500" height="auto"> | <img src="https://github.com/mrinaljain/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2023/images/wh_3.JPG" width="500" height="auto"> |
+|:--:|:--:|:--:|
+| <b> Hacker Check-in and Welcome </b>| <b> Hacker Hacking Hall </b>| <b> Hackers Play/Fun Zone </b>|
+
+| <img src="" width="500" height="auto"> | <img src="https://github.com/mrinaljain/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2023/images/wh_1.JPG" width="500" height="auto"> | <img src="https://github.com/mrinaljain/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2023/images/wh_4.JPG" width="500" height="auto"> | 
+|:--:|:--:|:--:|
+| <b> Cup-Stacking Mini-Event </b>| <b> GitHub Booth </b>| <b> Hackathon Winners </b>|
 
 ## What’s Next?
 -  Wittyhacks 3.0 was a huge success with great feedbacks from not just attendees but all the mentors, judges, speakers and sponsors. We aim to take this ahead and scale it to bring and  
