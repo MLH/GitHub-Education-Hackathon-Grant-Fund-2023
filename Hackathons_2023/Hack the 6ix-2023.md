@@ -19,7 +19,7 @@ Some of our pictures of our event can be found [here!](https://drive.google.com/
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{204}|{?}|[{51}](https://hackthe6ix2023.devpost.com/)| 
+|204|?|[51](https://hackthe6ix2023.devpost.com/)| 
 
 ## Tech Impact / Diversity 
 
