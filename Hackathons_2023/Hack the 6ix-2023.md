@@ -19,7 +19,7 @@ Some of our pictures of our event can be found [here!](https://drive.google.com/
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|204|?|[51](https://hackthe6ix2023.devpost.com/)| 
+|204|90|[51](https://hackthe6ix2023.devpost.com/)| 
 
 ## Tech Impact / Diversity 
 
@@ -27,11 +27,17 @@ Some of our pictures of our event can be found [here!](https://drive.google.com/
  - Who was the target audience for your event? <br> 
  - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
 
-### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+The most common education category was year 2 university students (113 attendees) followed by high schoolers (98 attendees). As a non-university-affiliated hackathon, Hack the 6ix can target high schoolers with the goal of exposing them to like-minded, driven people in the GTA region and connect with different university sponsors. The diversity breakdown is as follows:
 
+### What Gender do you hackers identify with?
+| Male | Female | Non-binary | Prefer not to say |
+|---------------:|--------------:|------------:|---------:|
+|71%|25%|2%|2%|
+
+### What race & ethnicities did your hackers identify as?
+| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White | Prefer not to answer |
+|---------------:|--------------:|------------:|---------:|--------:|
+|1|3|0|279|16|7|17|
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
