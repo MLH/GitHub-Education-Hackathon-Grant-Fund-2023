@@ -36,7 +36,7 @@ The most common education category was year 2 university students (113 attendees
 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White | Prefer not to answer |
-|---------------:|--------------:|------------:|---------:|--------:|---------:|
+|---------------:|--------------:|------------:|---------:|--------:|-------------------------------:|
 |1|3|0|279|16|7|17|
 
 ### Where were your hackers from?
