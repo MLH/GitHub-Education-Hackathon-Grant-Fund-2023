@@ -28,7 +28,7 @@ The most common education category was year 2 university students (113 attendees
 |1|3|0|279|16|7|17|
 
 ### Where were your hackers from?
-All of our hacers are from North America
+All of our hackers are from North America
 
 ## Impact of GitHub Grant
 The GitHub Grant had a positive effect on our entire event. As it was our first time hosting a fully in person event since the pandemice, our expenses were higher compared to previous years. The GitHub Grant served as a relief, and we used to support a variety of expenses such as hacker meals, swag coverage, and purchasing hardware for hackers. As a result, it had a positive impact on our event by allowing us to provide more and elevate the experience, creating a really great "back in person" event! Some of these expenses, such as hardware and swag will also continue to have a long term impact on Hack the 6ix as they can be reused for future events. 
