@@ -11,7 +11,7 @@ Some of our pictures of our event can be found [here!](https://drive.google.com/
 ## Event Metrics 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|204|90|[51](https://hackthe6ix2023.devpost.com/)| 
+|205|90|[51](https://hackthe6ix2023.devpost.com/)| 
 
 ## Tech Impact / Diversity 
 ### Tell us about your hacker demographics
