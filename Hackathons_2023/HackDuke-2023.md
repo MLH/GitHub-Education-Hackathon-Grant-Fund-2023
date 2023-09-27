@@ -47,20 +47,26 @@ It kept our hackers fueled and ready! Fundraising was challenging our team this 
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
+- What were some of the coolest projects at your event? <br>
+We thought a hack that created a map of accessibility features on the Duke campus was super cool. Another fantastic project was a tool that helped speakers of foreign languages learn how to code by leveraging the dynamic translation features of GPT.
 - We also want to see how hackers used GitHub at the event <br>
+Hackers were required to submit their code using GitHub.
 - What made them special? _Include the link to their website, Devpost or video._
+We especially appreciated attention-to-detail and innovating projects. Please see all of the hacks and winners https://hackduke2023.devpost.com/project-gallery!
 
 ## Event Photos
 
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://hackduke.org/images/events/cfg2023.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Hackers at check in. </b>|
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
+HackDuke is proud to host Code for Good every year. This year, we had a renewed focus on refining our tracks and bringing in a beginner-friendly experience. By leveraging our resources, workshops, and mentors, we hope that participants had an enjoyable and productive experience. We had 178 participants and 37 projects submitted.
 - What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+TBD!
+- Twitter & Instagram handles (if applicable)
+@hackduke
