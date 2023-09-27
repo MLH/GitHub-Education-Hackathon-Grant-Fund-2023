@@ -62,6 +62,12 @@ We especially appreciated attention-to-detail and innovating projects. Please se
 | <img src="https://hackduke.org/images/events/cfg2023.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Hackers at check in. </b>|
+| <img src="https://hackduke.org/images/cfg-2023-3.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Sponsor fair. </b>|
+| <img src="https://hackduke.org/images/cfg-2023-5.jpg" width="500" height="auto"> |
+|:--:|
+| <b> MLH booth. </b>|
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
