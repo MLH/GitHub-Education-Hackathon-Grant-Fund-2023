@@ -19,7 +19,7 @@ Our event featured a GitHub Copilot workshop from Microsoft. Of course, GitHub w
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|179|78|[37]([https://abstracthacks.devpost.com/project-gallery](https://hackduke2023.devpost.com))| 
+|179|78|[37](https://hackduke2023.devpost.com)| 
 
 ## Tech Impact / Diversity 
 
