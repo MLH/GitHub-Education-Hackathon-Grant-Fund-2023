@@ -43,20 +43,20 @@ Similar to other in-person hackathons, HACKUIOWA provided lots of food and bever
 
 ## Event Photos
 
-| <img src="https://hack.uiowa.edu/images/temporary/hack.jpeg" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/hack.jpeg" width="500" height="auto"> |
 |:--:|
 | <b> Hackers doing what they are best at! </b>|
 
-| <img src="https://hack.uiowa.edu/images/temporary/food.jpeg" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/food.jpeg" width="500" height="auto"> |
 |:--:|
 | <b> Dinner time! </b>|
 
 
-| <img src="https://hack.uiowa.edu/images/temporary/hackers.jpeg" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/hackers.jpeg" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers hanging out! </b>|
 
-| <img src="https://hack.uiowa.edu/images/temporary/macbook.jpeg" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/macbook.jpeg" width="500" height="auto"> |
 |:--:|
 | <b> Macbook Pro as Raffle Prize! </b>|
 
