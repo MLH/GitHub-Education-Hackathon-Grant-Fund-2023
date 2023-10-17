@@ -69,6 +69,10 @@ We had a lot of cool projects. Here are some:
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
+| <img src="/Hackathons_2023/images/HackUTA-CC.jpg" width="500" height="auto"> |
+|:--:|
+| <b> Hungry Hungry Hippos mini-event </b>|
+
 | <img src="/Hackathons_2023/images/HackUTA-HHH.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Hungry Hungry Hippos mini-event </b>|
