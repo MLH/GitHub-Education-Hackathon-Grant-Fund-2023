@@ -59,7 +59,7 @@ We used the Github Grant funds to cover a lot of the expenses for our Women in S
 
 ## Event Photos
 
-| <img src="https://drive.google.com/file/d/1cV_P1vrAMQNjyuroGPSMT3GBVM7axZHy/view" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/DSC_2889.JPG" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers hanging out! </b>|
 
