@@ -71,7 +71,7 @@ We had a lot of cool projects. Here are some:
 
 | <img src="/Hackathons_2023/images/HackUTA-CC.jpg" width="500" height="auto"> |
 |:--:|
-| <b> Hungry Hungry Hippos mini-event </b>|
+| <b> Closing Ceremony </b>|
 
 | <img src="/Hackathons_2023/images/HackUTA-HHH.JPG" width="500" height="auto"> |
 |:--:|
