@@ -41,7 +41,7 @@ Due to unforeseen delays, we encountered issues in receiving the GitHub Grant fu
     - [DMD : Dirty Money Detector](https://devfolio.co/projects/dmd-dirty-money-detector-54b2)
     - [Fire Training Drill](https://devfolio.co/projects/fire-training-drill-3e5c)
     - [S2V INTERPRETER](https://devfolio.co/projects/sv-interpreter-417c)
-- Majority of hackers in our event used Github to collaborate with other members. We also required th have a github repo in order to check for plagiarism and monitor their process. <br>
+- Majority of hackers in our event used Github to collaborate with other members. We also required them have a github repo in order to check for plagiarism and monitor their process. <br>
 
 
 ## Event Photos
