@@ -23,7 +23,7 @@ A significant portion of our hackers utilized Github for collaboration, fosterin
 
 | Attendees | Projects|
 |---------------:|------------:|
-|231|[48](https://reva-hack-1.devfolio.co/projects)|
+|221|[48](https://reva-hack-1.devfolio.co/projects)|
 
 ## Tech Impact / Diversity
 
