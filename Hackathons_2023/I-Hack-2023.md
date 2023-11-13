@@ -1,4 +1,4 @@
-# {I-Hack}
+# {I-Hack 2023}
 > Provide a description of your event, including but _not_ limited to: <br>
  - **October 20-21, 2023** 
  - **Brigham Young University-Idaho**
