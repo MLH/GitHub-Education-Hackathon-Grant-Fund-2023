@@ -38,18 +38,17 @@ The essence of HACK THE MOUNTAINS has always been about fostering creativity, in
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
-
-## Event Photos
-
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/642/638/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> [EcomVerse](https://devpost.com/software/ecomverse) - [Check it out on GitHub!](https://github.com/DivyamGupta23/EcomVerse_HTM4.0) </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/642/191/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b> [Virtual Electricity Transfer and Trading](https://devpost.com/software/virtual-electricity-transfer-and-trading) - [Check it out on GitHub!](https://github.com/orgs/Hack-The-Mountain-4-0-VETAT/repositories) </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/642/761/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b> [Pip My Script](https://devpost.com/software/pip-my-script) - [Check it out on GitHub!](https://github.com/KavyaSethia/pythonProject) </b>|
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
