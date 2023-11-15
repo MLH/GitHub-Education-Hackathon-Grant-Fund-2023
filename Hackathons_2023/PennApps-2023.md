@@ -38,18 +38,18 @@ PennApps was founded in the fall of 2009. Since then, it has spurred a revolutio
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
-
-## Event Photos
-
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/581/626/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> [ECO-HARVEST](https://devpost.com/software/croprec) - [Check it out on GitHub!](https://github.com/mayankyadavblr/PennApps24) </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/581/696/datas/gallery.jpg" width="500" height="auto"> |
+|:--:|
+| <b> [StudyHedge](https://devpost.com/software/study-hedge) - [Check it out on GitHub!](https://github.com/Keith-Khadar/Pennapps_2023) </b>|
+
+| <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/581/180/datas/medium.png" width="500" height="auto"> |
+|:--:|
+| <b> [ArcAid](https://devpost.com/software/draft-placeholder) - [Check it out on GitHub!](https://github.com/juliussneezer04/arcaid) </b>|
+
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
