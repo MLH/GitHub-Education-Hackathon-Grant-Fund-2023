@@ -41,25 +41,15 @@ Participating students spend 36 hours developing a project of their choice in th
 ## Top Projects
 | <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/422/470/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> [Deaf Spiders](https://devpost.com/software/deaf-spiders) | [Check it out on GitHub!](https://github.com/jameeker/DeafSpiders) </b>|
+| <b> [Deaf Spiders](https://devpost.com/software/deaf-spiders) - [Check it out on GitHub!](https://github.com/jameeker/DeafSpiders) </b>|
 
 | <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/422/337/datas/medium.png" width="500" height="auto"> |
 |:--:|
-| <b> [The Navigator](https://devpost.com/software/i-7njiyt) | [Check it out on GitHub!](https://github.com/snowman1701/Fashion-Tech-Hackathon) </b>|
+| <b> [The Navigator](https://devpost.com/software/i-7njiyt) - [Check it out on GitHub!](https://github.com/snowman1701/Fashion-Tech-Hackathon) </b>|
 
 | <img src="https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif" width="500" height="auto"> |
 |:--:|
-| <b> [Electronic ID](https://devpost.com/software/electronic-id) | [Check it out on GitHub!](https://github.com/redwinger14/FTH2023) </b>|
-
-
-## Event Photos
-
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
-|:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> [Electronic ID](https://devpost.com/software/electronic-id) - [Check it out on GitHub!](https://github.com/redwinger14/FTH2023) </b>|
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
