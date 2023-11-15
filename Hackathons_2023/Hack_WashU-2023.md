@@ -34,9 +34,13 @@ HackWashU had free workshops, lecture series, mentorship, prizes, games, and mor
 |{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+We used the funds from Github to help organize our hackathon in the following ways:
+*To cover the cost of renting a venue and equipment.
+*To provide food and drinks for the participants.
+*To offer prizes for the winners.
+*To promote the event to a wider audience.
+
+We believe that this grant had a significant impact on our event by helping us to attract more participants, provide a better experience for them, and ultimately make the event more successful.
 
 ## Top Projects
 
