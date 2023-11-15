@@ -7,29 +7,19 @@
 
 The essence of HACK THE MOUNTAINS has always been about fostering creativity, innovation, and collaboration in the world of hacking and technology. This time around, we raised the bar to bring an unforgettable experience that will not only test skills but also enable hackers to push boundaries further than ever before.
 
-## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
+## Event Metrics  
 
-| Attendees |First Time Hackers| Projects|
-|---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+| Attendees | Projects|
+|---------------:|------------:|
+|256|[64](https://htm4.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
-
-### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
-
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/missing-recaps/Hackathons_2023/images/Hack%20the%20Mountains%20Gender.png" width="500" height="auto">
 
 ### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/missing-recaps/Hackathons_2023/images/Hack%20the%20Mountains%20Schools.png" width="500" height="auto">
 
 ## Impact of GitHub Grant
 These funds were utilized at various places, let me list the same :
@@ -56,6 +46,4 @@ These funds were utilized at various places, let me list the same :
 | <b> [Pip My Script](https://devpost.com/software/pip-my-script) - [Check it out on GitHub!](https://github.com/KavyaSethia/pythonProject) </b>|
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+See updates at https://hackthemountain.tech/
