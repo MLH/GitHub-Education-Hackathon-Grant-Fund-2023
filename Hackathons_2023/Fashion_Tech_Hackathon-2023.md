@@ -1,15 +1,13 @@
 # Fashion Tech Hackathon 2023
-> Provide a description of your event, including but _not_ limited to: <br>
- - **Start and end dates of your event** 
- - **University Name / Organization Name**
- - **Country, State or Province, City**  
+ - **March 17-19th, 2023** 
+ - **School of Fashion /  TechStyleLAB**
+ - **Kent, Ohio, USA**  
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+The Fashion Tech Hackathon is a FREE dynamic, collaborative and interdisciplinary event allowing teams of university students to learn new skills and create innovative technology that will help define the future of fashion.
+
+Participating students spend 36 hours developing a project of their choice in the form of a project exploring the intersection of fashion and technology: it could be a technology-enhanced garment, wearable-responsive web application, or disrupting fashion via retail data innovations.
 
 ## Event Metrics 
 > Feel free to include any other metrics that you think may be important or applicable. 
