@@ -9,6 +9,9 @@ The Fashion Tech Hackathon is a FREE dynamic, collaborative and interdisciplinar
 
 Participating students spend 36 hours developing a project of their choice in the form of a project exploring the intersection of fashion and technology: it could be a technology-enhanced garment, wearable-responsive web application, or disrupting fashion via retail data innovations.
 
+Our hackathon is fashion technology focused. Due to this, a good portion of our students identify as female. We also have a large group of LGBTQ+ students engaged. One of our award challenges was based on designing for Queer musuem spaces.
+
+
 ## Event Metrics 
 > Feel free to include any other metrics that you think may be important or applicable. 
 
@@ -34,9 +37,7 @@ Participating students spend 36 hours developing a project of their choice in th
 |{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+These funds were used for material purchases of tech and for travel reimbursements.
 
 ## Top Projects
 | <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/422/470/datas/gallery.jpg" width="500" height="auto"> |
