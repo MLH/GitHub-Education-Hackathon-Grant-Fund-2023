@@ -32,9 +32,9 @@ PennApps was founded in the fall of 2009. Since then, it has spurred a revolutio
 |{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+We used the funds for venue costs and food. Given the amount of attendees this year, these funds would be pivotal in allowing us to cover venue and food costs to ensure the day-of experience goes smoothly and hackers needs are covered so they can comfortably focus on learning. 
+This was a very tight year for budget and this made sure all hackers who wanted to attend could be fed.  
+
 
 ## Top Projects
 
