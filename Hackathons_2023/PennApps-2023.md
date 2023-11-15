@@ -1,15 +1,11 @@
 # PennApps
-> Provide a description of your event, including but _not_ limited to: <br>
- - **Start and end dates of your event** 
- - **University Name / Organization Name**
- - **Country, State or Province, City**  
+ - **September 8-10th, 2023** 
+ - **University of Pennsylvania**
+ - **Philadelphia, Pennsylvania, USA**  
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+PennApps was founded in the fall of 2009. Since then, it has spurred a revolution in the way engineering students develop and showcase their skills. In the past years, over a thousand students from the U.S. and other countries like Switzerland, Canada, England, India and Singapore have converged in Philadelphia for a weekend of creation and discovery. Both beginners and experts alike will work together, learn and compete to become better engineers. This year, PennApps is expanding its focus on learning by emphasizing the collaboration of new and experienced hackers and providing more learning opportunities and workshops throughout the weekend.
 
 ## Event Metrics 
 > Feel free to include any other metrics that you think may be important or applicable. 
