@@ -32,9 +32,14 @@ The essence of HACK THE MOUNTAINS has always been about fostering creativity, in
 |{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+These funds were utilized at various places, let me list the same :
+
+1. As mentioned we conduct a series of workshops called HTM Qubits, some of our workshops are in person, so funds are needed to secure the place, for refreshments for attendees and goodies.
+
+2. We conduct many events before the hackathon to keep the engagement and hype of the hackathons, these events have some prizes so funds will be utilized here
+
+3. As this is a in-person hackathon funds are very much needed for securing the venues, promotional materials, refreshments for attendees, and finally prizes.
+
 
 ## Top Projects
 
