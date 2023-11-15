@@ -32,9 +32,8 @@ Hacker's unleashed their creativity for Status Code 0, competing across diverse 
 |{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+The amount that we acquired from the GitHub Education Grants went into the various headers of the estimated budget which will positively impact the overall hacking experience. We would primarily invest in the more basic facilities that will be necessary for the hackathon, such as food and venue costs.
+
 
 ## Top Projects
 
