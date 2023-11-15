@@ -1,15 +1,13 @@
 # Hack WashU
-> Provide a description of your event, including but _not_ limited to: <br>
- - **Start and end dates of your event** 
- - **University Name / Organization Name**
- - **Country, State or Province, City**  
+ - **October 14-15th, 2023** 
+ - **Washington University**
+ - **St. Louis, Missouri, USA**  
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+At HackWashU, hackers met fellow hackers from around the country, learned new skills, and worked alongside seasoned mentors.
+
+HackWashU had free workshops, lecture series, mentorship, prizes, games, and more.
 
 ## Event Metrics 
 > Feel free to include any other metrics that you think may be important or applicable. 
