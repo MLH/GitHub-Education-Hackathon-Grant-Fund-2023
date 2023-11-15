@@ -13,28 +13,25 @@ Our hackathon is fashion technology focused. Due to this, a good portion of our 
 
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
-| Attendees |First Time Hackers| Projects|
-|---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+| Attendees | Projects|
+|---------------:|------------:|
+|70|[17](https://ksu-fth-2023.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
 
-### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+  <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Fashion%20Tech%20Attendee%20Gender.png" width="500" height="auto"> 
 
+  <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Fashion%20Tech%20Level%20of%20Study.png" width="500" height="auto"> 
+
+   <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Fashion%20Tech%20Majors.png" width="500" height="auto"> 
 
 ### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+  <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Fashion%20Tech%20Country%20of%20Residence.png" width="500" height="auto"> 
+  
+  <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Fashion%20Tech%20Universities.png" width="500" height="auto"> 
 
 ## Impact of GitHub Grant
 These funds were used for material purchases of tech and for travel reimbursements.
@@ -53,6 +50,4 @@ These funds were used for material purchases of tech and for travel reimbursemen
 | <b> [Electronic ID](https://devpost.com/software/electronic-id) - [Check it out on GitHub!](https://github.com/redwinger14/FTH2023) </b>|
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+See updates at https://www.kent.edu/fashion/fth 
