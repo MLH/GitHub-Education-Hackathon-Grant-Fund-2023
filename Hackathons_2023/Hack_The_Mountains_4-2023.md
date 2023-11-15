@@ -16,10 +16,10 @@ The essence of HACK THE MOUNTAINS has always been about fostering creativity, in
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
-<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/missing-recaps/Hackathons_2023/images/Hack%20the%20Mountains%20Gender.png" width="500" height="auto">
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Hack%20the%20Mountains%20Gender.png" width="500" height="auto">
 
 ### Where were your hackers from?
-<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/missing-recaps/Hackathons_2023/images/Hack%20the%20Mountains%20Schools.png" width="500" height="auto">
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Hack%20the%20Mountains%20Schools.png" width="500" height="auto">
 
 ## Impact of GitHub Grant
 These funds were utilized at various places, let me list the same :
