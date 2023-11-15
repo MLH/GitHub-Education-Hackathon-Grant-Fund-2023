@@ -10,28 +10,18 @@ At HackWashU, hackers met fellow hackers from around the country, learned new sk
 HackWashU had free workshops, lecture series, mentorship, prizes, games, and more.
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
-| Attendees |First Time Hackers| Projects|
-|---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+| Attendees |
+|---------------:|
+|219| 
 
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
-
-### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
-
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Hack%20WashU%20Level%20of%20Study.png" width="500" height="auto" >
 
 ### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+<img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/Hack%20WashU%20Schools.png" width="500" height="auto" >
 
 ## Impact of GitHub Grant
 We used the funds from Github to help organize our hackathon in the following ways:
@@ -42,22 +32,9 @@ We used the funds from Github to help organize our hackathon in the following wa
 
 We believe that this grant had a significant impact on our event by helping us to attract more participants, provide a better experience for them, and ultimately make the event more successful.
 
-## Top Projects
-
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
-
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
-|:--:|
-| <b> A group of hackers hanging out! </b>|
+Check out the full photo gallery at https://photos.google.com/share/AF1QipMRRTxSOKHv_xH9MGX_jtNAtxdBzXFNRhMu0NzTPfc908F0Busr2lGvxiAAusSvXw?key=cFYtNksxR0cycGlFZWVfOUx1bS1wNEUxc0tPcGN3 
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+Keep up with Hack WashU at https://linktr.ee/hackwashu 
