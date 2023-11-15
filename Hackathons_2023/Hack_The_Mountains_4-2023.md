@@ -1,15 +1,11 @@
 # Hack The Mountains 4.0
-> Provide a description of your event, including but _not_ limited to: <br>
- - **Start and end dates of your event** 
- - **University Name / Organization Name**
- - **Country, State or Province, City**  
+ - **October 28-29th, 2023** 
+ - **DLF Cyberpark / Sudan's Technocrats Foundation**
+ - **Haryana, Gurgaon, India**  
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+The essence of HACK THE MOUNTAINS has always been about fostering creativity, innovation, and collaboration in the world of hacking and technology. This time around, we raised the bar to bring an unforgettable experience that will not only test skills but also enable hackers to push boundaries further than ever before.
 
 ## Event Metrics 
 > Feel free to include any other metrics that you think may be important or applicable. 
