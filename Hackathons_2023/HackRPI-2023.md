@@ -16,14 +16,14 @@
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{your attendee count}|71%|[73](https://hackrpi-x-2023.devpost.com/project-gallery)| 
+|500+|71%|[73](https://hackrpi-x-2023.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
  - Who was the target audience for your event? <br> 
  - 25% identified as female or non-binary
- - 
+ - 43 different schools, 
 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
@@ -49,14 +49,23 @@
 - One [especially creative](https://devpost.com/software/github-ide) use of github (which won that award), used the GitHub API to automatically update the README of their repo using the output of the program. 
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
+| <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_checkincrowd.png" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_hackersattable.png" width="100%" height="auto"> |
+|:--:|:--:|
+| <b> The organized chaos of the check in rush </b>| <b> A group of hackers working at a table </b> |
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_boba.png" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_hackersdoingwork.png" width="100%" height="auto"> |
+|:--:|:--:|
+| <b> Hackers getting boba after a long day of hacking </b> | | <b> Some more hackers working in a lecture hall </b> |
+
+| <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_presentation.png" width="100%" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Hackers presenting their hard work </b>|
+
+| <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_githubwinner.png" width="100%" height="auto"> |
+|:--:|
+| <b> The most creative use of github winner collecting their prize </b>|
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
+- HackRPI X went incredible, and broke our expectations for both attendees and project submissions, and we are excited to continue to grow and improve our hackathon next year!
 - The next iteration of HackRPI is planned for November 2024
 - @hack.rpi
