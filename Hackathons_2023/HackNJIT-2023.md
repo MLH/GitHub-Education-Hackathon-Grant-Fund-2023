@@ -1,50 +1,49 @@
 # HackNJIT 2023
 
  - **Start/end date**: November 4-5, 2023
- - **University/Organization Name**: Student ACM Chapter of New Jersey Institute of Technology (NJIT ACM)
+ - **University/Organization Name**: New Jersey Institute of Technology, Association for Computing Machinery (NJIT ACM)
  - **Location**: Newark, NJ
 
 ## Event Summary
 
-- HackNJIT is NJIT's prominent annual beginner software hackathon focused on being the first step for college undergraduates to complete a project that will be beneficial to their career (through resume or project list addition)
-- Our theme this year was *Nautical*
-- This year and last were both on Daylight Savings End weekends, making the time to submit 25 hours instead of 24. Really emphasizes beginner-friendly!
+HackNJIT is NJIT ACM's annual 24-hour software hackathon that is beginner-friendly. The goal is to allow students to complete a project that will be beneficial to their career, learn new skills via the hosted workshops or other hackers, or take a break from the multiple mini-events. 
+Throughout the event, plenty of resources were provided to hackers to fully showcase their skills and creativity with this year's theme of nautical! To keep hackers engaged and welcomed, several raffles were held throughout the event and the venue was decorated around the theme!
 
 ### Workshops
 
-- GitHub: below
-- AWS: usage, impact on modern services
-- MLH/ACM: beginners' guide, team building
-- Verizon: project discussion
+- GitHub: showcasing the basics of using GitHub.
+- AWS: talked about AWS usage and impact on modern services.
+- MLH/ACM: Beginners' Guide, Team Building, and Project Submission Guide.
+- Verizon: project discussion.
 - DataBank
-- Patient Safety Technologies: project discussion
-- Google Developers Student Club: Android
-- ACM: project submission guide
+- Patient Safety Technologies: project discussion.
+- Google Developers Student Club: how to develop apps on Android.
 
 ### Side-Events
-- Computer/Console recreation room
-- MLH cup stacking
-- Keyboard typing competition
-- Pokemon Showdown competition
+- Computer/Console Recreation Room
+- MLH Cup Stacking
+- Keyboard Typing Competition
+- Pokemon Showdown Competition
 - Midnight Karaoke
 
 ### How was GitHub featured at your event?
-
-  - GitHub was the required host for repositories of projects to be submitted
-  - A GitHub workshop was held at the beginning of the event to teach the basics of repository workflow
+HackNJIT 2023 had fully utilized GitHub as a part of the submission guidelines. Hackers were required to finalize all their commits with their submissions on Devpost. The goal is to make sure the projects' completions were in the allotted time and that the code generated during the event was original and made within the given time.
 
 ## Event Metrics 
 
 | Attendees | Projects|
 |---------------:|------------:|
-| 370 | 63 |
+| 370 | 63 (https://hacknjit-2023.devpost.com/project-gallery) |
+
+### Post-Event Survey (75 Submissions)
+| First Time Hackers |
+|---------------:|
+| 50 |
 
 ## Tech Impact / Diversity 
 
 ### Hacker demographics
-
- - Our target is always college undergraduates, graduates, and recent graduates
- - We are sure to accept all attendees without discrimination
+HackNJIT's target demographic is college students who are 18 and older. The goal was to welcome any college or university student to NJIT to join HackNJIT. This also includes first-time hackers as the event was planned to be beginner friendly.  
 
 ### Where were your hackers from?
 
@@ -53,23 +52,18 @@
 | 31 | 320 | 3 | 14 |
 
 ## Impact of GitHub Grant
-- The grant funds were used to give more ambiance in the room through decoration. We had planned to use just small LED projection wave lights, but the added funds let us purchase more ambitious decorations
-- We purchased a large spotlight, inflatable beach-themed decorations, and prints of drawings of sea creatures and ships
-- We also purchased string lights, a fog machine, and fog juice, but these could not see the light of the event due to being a fire hazard
-- We hoped that the added ambiance would empower the hackers and their projects, and afterwards we received appraise regarding the lights
+- Thanks to the GitHub Grant, the hackathon was able to handle a larger group of people by providing larger servings of food. Due to the influx of numbers this year, exceeding original expectations, the increased food options and the amount had played a major role in making sure the hackers were fed. The grant funds were also used to give more ambiance to the room through decoration. HackNJIT used the budget to purchase small wave light projectors, inflatable beach-themed decorations, and prints of drawings of sea creatures and ships. According to hackers, the added decorations were one of the favorite parts of the hackathon!
 
 ## Top Projects
 
-- [WagerWhales](https://devpost.com/software/wager-whales)
-- [Treasure Snap!](https://devpost.com/software/treasure-snap)
-- [SeaSOS](https://devpost.com/software/seasos)
-
-GitHub was used for all submissions to track the progress and ligitimacy of the winners. Despite having another category for best theme, HackNJIT consistently has multiple submissions that always go above and beyond for the top three prizes that still stay consistent with the theme.
+- 1st Place - [WagerWhales](https://devpost.com/software/wager-whales)
+  - A website where people can bet if a fish from a live-streamed aquarium will enter a player's drawn box within a certain time.
+- 2nd Place - [Treasure Snap!](https://devpost.com/software/treasure-snap)
+  - A geocaching game where users can look at a photo and riddle and try to snap the same photo in the same location.
+- 3rd Place - [SeaSOS](https://devpost.com/software/seasos)
+  - An AR application that is designed to help demonstrate and streamline maritime emergency protocols for cruises and ships.
 
 ## Event Photos
-
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
 
 | ![](images/HackNJIT_1.JPG) <br> ![](images/HackNJIT_2.JPG)|
 |:--:|
@@ -81,8 +75,8 @@ GitHub was used for all submissions to track the progress and ligitimacy of the 
 
 
 ## What’s Next?
-- HackNJIT 2023 was a resounding success! Our attendance touched the peak of the previous HackNJITs. Since the devastating effects of COVID-19 on the attendance of in-person hackathons, the progress we have made is incredible. Thank you to the NJIT Ying Wu College of Computing for their support in the months leading to the event, and thank you to our sponsors for making everything happen!
-- Next HackNJIT date is most likely November 3-4, 2024.
+- HackNJIT 2023 was a resounding success! Our attendance touched the peak of HackNJIT's highest record with 370 hackers. Thank you to the NJIT Ying Wu College of Computing for their support in the months leading to the event, and thank you to our sponsors for making everything happen! We hope that the hackers were able to learn something new or create a great project to showcase! For the future, HackNJIT will try to build on the success of this year to bring a larger attendance and a more streamlined experience for hackers next year. 
+- The next HackNJIT date is still being determined but will happen sometime in Fall 2024.
 - [HackNJIT Instagram](https://instagram.com/hacknjit)
 - [NJIT ACM Instagram](https://instagram.com/njitacm)
 - [NJIT YWCC Instagram](https://www.instagram.com/njityingwu)
