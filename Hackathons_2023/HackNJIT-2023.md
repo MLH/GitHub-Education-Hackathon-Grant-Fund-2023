@@ -44,6 +44,7 @@
 ### Hacker demographics
 
  - Our target is always college undergraduates, graduates, and recent graduates
+ - We are sure to accept all attendees without discrimination
 
 ### Where were your hackers from?
 
@@ -54,7 +55,8 @@
 ## Impact of GitHub Grant
 - The grant funds were used to give more ambiance in the room through decoration. We had planned to use just small LED projection wave lights, but the added funds let us purchase more ambitious decorations
 - We purchased a large spotlight, inflatable beach-themed decorations, and prints of drawings of sea creatures and ships
-- We hoped that the added ambiance would empower the hackers and their projects
+- We also purchased string lights, a fog machine, and fog juice, but these could not see the light of the event due to being a fire hazard
+- We hoped that the added ambiance would empower the hackers and their projects, and afterwards we received appraise regarding the lights
 
 ## Top Projects
 
@@ -79,8 +81,8 @@ GitHub was used for all submissions to track the progress and ligitimacy of the 
 
 
 ## What’s Next?
-- HackNJIT 2023 was a resounding success! Our attendance exceeded that of any past consisting of only college students. Since the devastating effects of COVID-19 on the attendance of in-person hackathons, the progress we have made is incredible. Thank you to the NJIT Ying Wu College of Computing for their support in the months leading to the event, and thank you to our sponsors for making everything happen!
-- Next hackathon date is most likely November 3-4, 2024.
+- HackNJIT 2023 was a resounding success! Our attendance touched the peak of the previous HackNJITs. Since the devastating effects of COVID-19 on the attendance of in-person hackathons, the progress we have made is incredible. Thank you to the NJIT Ying Wu College of Computing for their support in the months leading to the event, and thank you to our sponsors for making everything happen!
+- Next HackNJIT date is most likely November 3-4, 2024.
 - [HackNJIT Instagram](https://instagram.com/hacknjit)
 - [NJIT ACM Instagram](https://instagram.com/njitacm)
 - [NJIT YWCC Instagram](https://www.instagram.com/njityingwu)
