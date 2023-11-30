@@ -59,6 +59,6 @@
 | <b> The most creative use of github winner collecting their prize </b>|
 
 ## What’s Next?
-- HackRPI X went incredibly, and exceeded our expectations for both attendees and project submissions. We are excited to continue to grow and improve our hackathon next year!
+- HackRPI X went incredibly, exceeding our expectations for both attendees and project submissions. We are excited to continue to grow and improve our hackathon next year!
 - The next iteration of HackRPI is planned for November 2024
 - @hack.rpi
