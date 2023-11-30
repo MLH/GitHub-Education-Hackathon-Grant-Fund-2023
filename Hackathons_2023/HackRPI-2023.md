@@ -25,19 +25,19 @@
  - 43 different schools, 
 
 ### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|0|24|32|226|155|
+| Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
+|--------------:|------------:|---------:|--------:|
+|24|32|226|155|
 
 ## Impact of GitHub Grant
 - The GitHub Grant funds put us over our minimum budget, allowing us to put funds towards extra expenses that would benefit our hackers. To this end, we held a Bubble Tea night, where we gave out cups of bubble tea (sponsored by Taichi Bubble Tea) at 11PM. During the event, we ran out of about 300 cups in less than half an hour. This positively affected the outcomes of our event participants by giving them a much needed break half-way through the hackathon.
 - However, HackRPI doesn't allocate specific funding sources to specific expenses, and so this money also went towards
     - Food, including an extra lunch in addition to what we served last year
-    - Stickers and Shirts, for Hackers to take home, remember our event, and promote us to others
+    - Stickers and shirts, for Hackers to take home, remember our event, and promote us to others
 
 ## Top Projects
 
-- Our first place project was [DAVE Health Chat Ed-You](https://devpost.com/software/dasz), using artificial intelligence to help those with visual imparements better navigate the world
+- Our first place project was [DAVE](https://devpost.com/software/dasz), using artificial intelligence to help those with visual imparements better navigate the world
 - [Another](https://devpost.com/software/decolawnize) created a resource to find easy, native lawn plant replacements
 - One [especially creative](https://devpost.com/software/github-ide) use of github (which won that award), used the GitHub API to automatically update the README of their repo using the output of the program. 
 ## Event Photos
@@ -59,6 +59,6 @@
 | <b> The most creative use of github winner collecting their prize </b>|
 
 ## What’s Next?
-- HackRPI X went incredible, and broke our expectations for both attendees and project submissions, and we are excited to continue to grow and improve our hackathon next year!
+- HackRPI X went incredibly, and exceeded our expectations for both attendees and project submissions. We are excited to continue to grow and improve our hackathon next year!
 - The next iteration of HackRPI is planned for November 2024
 - @hack.rpi
