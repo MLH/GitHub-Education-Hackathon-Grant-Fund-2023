@@ -12,7 +12,6 @@
 - Fun workshops, such as !light with MLH, an ugliest code competition, and Super Smash Bros
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
@@ -49,7 +48,7 @@
 
 | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_boba.png" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_hackersdoingwork.png" width="100%" height="auto"> |
 |:--:|:--:|
-| <b> Hackers getting boba after a long day of hacking </b> | <b> 2 Physics majors learning git </b> |
+| <b> Hackers getting boba after a long day of coding </b> | <b> Two physics majors learning to use git </b> |
 
 | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_presentation.png" width="100%" height="auto"> |
 |:--:|
