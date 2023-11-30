@@ -30,12 +30,6 @@
 |---------------:|--------------:|------------:|---------:|--------:|
 |0|24|32|226|155|
 
-
-### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
-
 ## Impact of GitHub Grant
 - The GitHub Grant funds put us over our minimum budget, allowing us to put funds towards extra expenses that would benefit our hackers. To this end, we held a Bubble Tea night, where we gave out cups of bubble tea (sponsored by Taichi Bubble Tea) at 11PM. During the event, we ran out of about 300 cups in less than half an hour. This positively affected the outcomes of our event participants by giving them a much needed break half-way through the hackathon.
 - However, HackRPI doesn't allocate specific funding sources to specific expenses, and so this money also went towards
@@ -55,7 +49,7 @@
 
 | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_boba.png" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_hackersdoingwork.png" width="100%" height="auto"> |
 |:--:|:--:|
-| <b> Hackers getting boba after a long day of hacking </b> | | <b> Some more hackers working in a lecture hall </b> |
+| <b> Hackers getting boba after a long day of hacking </b> | | <b> 2 Physics majors learning git </b> |
 
 | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2023/images/hackrpi_presentation.png" width="100%" height="auto"> |
 |:--:|
