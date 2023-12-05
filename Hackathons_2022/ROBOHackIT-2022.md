@@ -42,15 +42,15 @@ These separate tracks will encourage students from different backgrounds, who mi
 
 | <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/265/113/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> First Place - [CiceroAI](https://devpost.com/software/ciceroai) - [Check it out on GitHub!](https://github.com/gabeweng/cicero) </b>|
+| <b> <u>First Position - [CiceroAI](https://devpost.com/software/ciceroai) - [Check it out on GitHub!](https://github.com/gabeweng/cicero) </b></u>|
 
 | <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/267/928/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b>Second Place - [SpeechSplendid](https://devpost.com/software/speechsplendid) - [Check it out on GitHub!](https://github.com/NeelKondapalli/Speech-Splendid) </b>|
+| <b><u>Second Position - [SpeechSplendid](https://devpost.com/software/speechsplendid) - [Check it out on GitHub!](https://github.com/NeelKondapalli/Speech-Splendid) </b> </u>|
 
 | <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/268/093/datas/gallery.jpg" width="500" height="auto"> |
 |:--:|
-| <b> Third Place - [Study++](https://devpost.com/software/study-d13isg) - [Check it out on GitHub!](https://github.com/madhavkGitHub/PhoneAppV1) </b>|
+| <b> <u>Third Position - [Study++](https://devpost.com/software/study-d13isg) - [Check it out on GitHub!](https://github.com/madhavkGitHub/PhoneAppV1) </b> </u>|
 
 ## What’s Next?
 ROBOHackIT has not decided on the date for next year. Stay connected with us at robocompsci@gmail.com
