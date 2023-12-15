@@ -66,33 +66,33 @@ All the listed projects above used Github to host and share their projects! All 
 
 ## Event Photos
 
-| <img src="./images/CatHacks-IntroToGithub.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-IntroToGithub.jpg" width="600" height="800"> |
 |:--:|
-| <b> Intro to Git and Github Workshop </b>|
+| <b><u>Intro to Git and Github Workshop </b> </u>| <br>
 
-| <img src="./images/CatHacks-CupStacking.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-CupStacking.jpg" width="600" height="800"> |
 |:--:|
-| <b> MLH Cup Stacking Mini-Event </b>|
+| <b><u> MLH Cup Stacking Mini-Event </b> </u>|  <br>
 
-| <img src="./images/CatHacks-PresentationKaroake.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-PresentationKaroake.jpg" width="600" height="800"> |
 |:--:|
-| <b> Presentation Karaoke Mini-Event </b>|
+| <b><u> Presentation Karaoke Mini-Event </b> </u>|  <br>
 
-| <img src="./images/CatHacks-JudgingInSession.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-JudgingInSession.jpg" width="600" height="800"> |
 |:--:|
-| <b> Judging in Session </b>|
+| <b> <u>Judging in Session </b> </u>|  <br>
 
-| <img src="./images/CatHacks-ClosingCeremony.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-ClosingCeremony.jpg" width="600" height="800"> |
 |:--:|
-| <b> Closing Ceremony </b>|
+| <b> <u> Closing Ceremony </b> </u>|  <br>
 
-| <img src="./images/CatHacks-FirstPlaceWinners.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-FirstPlaceWinners.jpg" width="600" height="800" |
 |:--:|
-| <b> First Place Winners </b>|
+| <b> <u>First Place Winners </b> </u>|  <br>
 
-| <img src="./images/CatHacks-Organizers.jpg" width="500" height="auto"> |
+| <img src="./images/CatHacks-Organizers.jpg" width="600" height="800"> |
 |:--:|
-| <b> CatHacks Organizers </b>|
+| <b> <u>CatHacks Organizers </b> </u>|  <br>
 
 
 
