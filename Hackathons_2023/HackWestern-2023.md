@@ -50,11 +50,11 @@
 
 ## Event Photos
 
-| <img src="https://drive.google.com/file/d/1euwk7OQ2orLAbrG2PWV1kPDiq4FZPB27/view?usp=drive_link" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/hackwestern%20ceremony.PNG" width="500" height="auto"> |
 | :-------------------------------------------------------------------------------------------------------------------------: |
 |                                 <b> Our sponsors and hackers at our opening ceremony! </b>                                  |
 
-| <img src="https://drive.google.com/file/d/1ArMIB4w6v0Dhg4PP7lVoMPAU4ovrx0Jp/view?usp=drive_link" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/HackWesternFood.jpg" width="500" height="auto"> |
 | :-------------------------------------------------------------------------------------------------------------------------: |
 |                                 <b> Our hackers lining up for Subway at our Cafeteria! </b>                                 |
 
