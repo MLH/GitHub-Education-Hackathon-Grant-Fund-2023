@@ -1,4 +1,4 @@
-# The GitHub Education Hackathon Grant Fund 2022-2023
+# The GitHub Education Hackathon Grant Fund 2022-2024
 
 _Congratulations on hosting your **GitHub Grant** powered event through **MLH**._
 
