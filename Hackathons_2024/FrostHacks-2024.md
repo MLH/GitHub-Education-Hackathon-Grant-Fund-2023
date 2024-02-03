@@ -1,67 +1,76 @@
 # FrostHacks 2024
-> FROST HACKS, Hyderabad's first 30-hour Hackathon in collaboration with Major League Hacking held at Institute of Aeronautical Engineering (IARE), extends a warm invitation to all students who share a burning passion for coding, regardless of your current skill level, there are no boundaries to your creativity. Our mission is to cultivate a dynamic and collaborative environment where students can immerse themselves in project-based learning, all while having an unforgettable time. <br>
+FROST HACKS, Hyderabad's first 30-hour Hackathon in collaboration with Major League Hacking held at Institute of Aeronautical Engineering (IARE), extends a warm invitation to all students who share a burning passion for coding, regardless of your current skill level, there are no boundaries to your creativity. Our mission is to cultivate a dynamic and collaborative environment where students can immerse themselves in project-based learning, all while having an unforgettable time. <br>
  - **20 - 21 Jan, 2024** 
  - **Institute of Aeronautical Engineering**
  - **Hyderabad, India***  
+![unstop splash](https://github.com/suppixie/GitHub-Education-Hackathon-Grant-Fund-2023/assets/100701261/d500db95-86dc-4af3-8ad6-87c0c86d1e5d)
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br> 
 The Frost Hacks Hackathon distinguished itself through its collaboration with Major League Hacking (MLH), leveraging MLH's expertise and support to create a dynamic platform for tech enthusiasts. The event's emphasis on learning, collaboration, and innovation, guided by the MLH Coach, set it apart. Additionally, the diverse participation from various states, the national reach, and the inclusive atmosphere fostered by participants from different backgrounds added uniqueness to the hackathon.
+The hackathon featured an inspiring opening ceremony led by the MLH Coach, providing insights into MLH and introducing event sponsors. Participants were offered a spectrum of themes, including Open Innovation, Gamify, Social Good, Health & Wellness, Security, and Web3.0, allowing them to align their projects with real-world challenges.Two Workshops were conducted by our MLH Coach, one being the Github Copilot and the other was Soroban Workshop. We set up a midnight surprise for the hackers which included a flash mob dance performance by our college dance club and a Bonfire to relax for a while.
+As Github Copilot Worksop was conducted, our hackers learnt about it and utilized it in their projects while also using Github for version-control.
 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-The hackathon featured an inspiring opening ceremony led by the MLH Coach, providing insights into MLH and introducing event sponsors. Participants were offered a spectrum of themes, including Open Innovation, Gamify, Social Good, Health & Wellness, Security, and Web3.0, allowing them to align their projects with real-world challenges. Judges from "Catalog," a blockchain finance company, conducted a fair evaluation based on criteria such as creativity, wow-factor, and technological impact. The variety of cutting-edge technologies used, such as GoDaddy Domain Registration, Smart contracts by Soroban & Hedera, python libraries by Taipy, and cloud hosting by Streamlit and Cloudflare, showcased the organizers' commitment to providing diverse opportunities for exploration and learning.
-
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+|480|230|147 [Project Gallery](https://frosthacks.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
-### Tell us about your hacker demographics
- - Who was the target audience for your event? <br>
-   The target audience for the Frost Hacks Hackathon included tech enthusiasts, innovators, and individuals interested in learning, collaborating, and pushing the boundaries of their capabilities above 18 years of age to 24 years. The event aimed to attract a diverse range of participants, as evident from the 480 registrations and 140 diverse teams. Participants from various states, with different backgrounds and perspectives, contributed to the vibrant and inclusive atmosphere, highlighting the event's appeal to a broad audience within the tech community.
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
-
-### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
-
-
-### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+FrostHacks is open to all individuals in the age range of 18-24. (Trans and Non-Binary inclusive)<br>
+The target audience for the Frost Hacks Hackathon included tech enthusiasts, innovators, and individuals interested in learning, collaborating, and pushing the boundaries of their capabilities. The event aimed to attract a diverse range of participants, as evident from the 140 diverse teams. Participants from various states, with different backgrounds and perspectives, contributed to the vibrant and inclusive atmosphere, highlighting the event's appeal to a broad audience within the tech community. About 40% of the hackers were females, 5% were Non-binary and 45% of them were first-time hackers.
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+The GitHub Grant significantly contributed to the triumph of our event. Thanks to the grant funds,we were able to arrange good food for breakfast and lunch, catering to various dietary needs. This strategic use of funds relieved hackers from any concerns about food etc, allowing them to concentrate on hacking and enjoying the event to the fullest.
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+Winning Projects of FrostHacks are:<br>
+
+- 1st Overall Winner is [**Snippet Safe**](https://devpost.com/software/snippetsafe) project.<br>
+- 2nd Overall Winner is [**Farmwell**](https://devpost.com/software/farmwell) project<br>
+- 3rd Overall Winner is [**Geek 'O' Wars**](https://devpost.com/software/geek-o-wars) project.<br>
+
+Category Track Winners are:<br>
+
+- **Best Domain Name from GoDaddy Registry** goes to [**CraveFeed**](https://devpost.com/software/cravefeed) project<br>
+- **Best Use of Taipy** goes to [**Vaanya**]([Vaanya](https://devpost.com/software/vaanya) project<br>
+- **Best Use of Hedera** goes to [**ReserveInn**](https://devpost.com/software/reserveinn) project<br>
+- **Best Use of MongoDB Atlas** goes to [**GeoInsights**](https://devpost.com/software/geoinsights) project<br>
+- **Best Use of Streamlit** goes to [**Drought Prediction using SARIMA**](https://devpost.com/software/drought-prediction-using-sarima) project.<br>
+
+Our Favourite Project:<br>
+[Gamify-IPR](https://devpost.com/software/gamify-ipr)<br>
+Its a game that aims to create an interactive game teaching school students about Intellectual Property Rights. Focused on the issue of unpatented inventions and IP theft, our game involves players, acting as attorneys, solving cases by listening to background stories, identifying hidden clues, and gathering evidence in an open-world scenario to protect intellectual properties.
 
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/suppixie/GitHub-Education-Hackathon-Grant-Fund-2023/assets/100701261/c2fb08f6-3007-422c-ba5d-be7ef5511bb5" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Our Hacking Space </b>|
+
+| <img src="https://github.com/suppixie/GitHub-Education-Hackathon-Grant-Fund-2023/assets/100701261/c22a2d15-5b0b-4e87-9525-fe46cd35ef8e" width="500" height="auto"> |
+|:--:|
+| <b> Our MLH Coach giving away freebies and MLH stickers </b>|
+
+| <img src="https://github.com/suppixie/GitHub-Education-Hackathon-Grant-Fund-2023/assets/100701261/1139baae-220e-4101-bd00-687f19058b4c" width="500" height="auto"> |
+|:--:|
+| <b> Midnight Surprise Dance </b>|
+
+| <img src="https://github.com/suppixie/GitHub-Education-Hackathon-Grant-Fund-2023/assets/100701261/ee463bcf-9da6-42cd-9aa8-6cbed55aa1a2" width="500" height="auto"> |
+|:--:|
+| <b> Bonfire Set up for the hackers </b>|
+
+| <img src="https://github.com/suppixie/GitHub-Education-Hackathon-Grant-Fund-2023/assets/100701261/acb5edab-d100-4a80-a8ff-c487a6e542ef" width="500" height="auto"> |
+|:--:|
+| <b> Judging Round Begins </b>|
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-The Frost Hacks Hackathon, in collaboration with Major League Hacking, successfully brought together 480 participants organized into 140 diverse teams. The event provided a platform for learning, collaboration, and innovation, guided by the MLH Coach. With a national reach, participants from states like Tamil Nadu, Delhi, Mumbai, Hyderabad, Rajasthan, and Karnataka showcased the event's impact on a wide audience. The hackathon covered a range of themes, and participants utilized cutting-edge technologies in their projects, reflecting adaptability and eagerness to explore new stacks. The judging process by professionals from "Catalog" ensured fair evaluation, leading to the recognition of eight standout teams. Positive feedback on the Devpost platform and the overall success of the hackathon emphasized its lasting impact on participants' skills and perspectives, contributing to the collective growth of the tech ecosystem.
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+The Frost Hacks Hackathon provided a platform for collaboration, and innovation. With a national reach, participants from states like Tamil Nadu, Delhi, Mumbai, Hyderabad, Rajasthan, and Karnataka showcased the event's impact on a wide audience. The hackathon covered a range of themes, and participants utilized cutting-edge technologies in their projects, reflecting adaptability and eagerness to explore new stacks. Positive feedback on the Devpost platform and the overall success of the hackathon emphasized its lasting impact on participants' skills and perspectives, contributing to the collective growth of the tech ecosystem. We are very excited to organize Frost Hacks again.
+
+Twitter handle -[@frosthackshyd](https://twitter.com/frosthackshyd)<br>
+Instagram handle - [@frosthacks.hyd](https://www.instagram.com/frosthacks.hyd/)
