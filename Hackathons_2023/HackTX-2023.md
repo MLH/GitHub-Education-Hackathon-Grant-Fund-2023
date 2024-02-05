@@ -1,5 +1,5 @@
 # HackTX
- - **OCtober 21-22, 2023** 
+ - **October 21-22, 2023** 
  - **University of Texas at Austin / Freetail Hackers**
  - **Austin, Texas, United States**  
 
