@@ -1,7 +1,7 @@
 # TAMU Datathon
- - **October 28-29, 2023 ** 
- - **Texas A&M University **
- - **College Station, Texas, United States **  
+ - October 28-29, 2023  
+ - Texas A&M University 
+ - College Station, Texas, United States 
 
 ## Event Summary
 
