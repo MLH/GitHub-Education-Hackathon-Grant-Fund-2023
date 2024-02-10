@@ -36,7 +36,7 @@ to teach participants how to use GitHub if they had never used it before.
 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------:|----------:|---------:|:|--------:|
+|---------:|----------:|---------:|---------:|--------:|
 |0|8|13|127|51|
 
 
