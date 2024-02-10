@@ -71,9 +71,8 @@ https://hackncstate2024.devpost.com/project-gallery?page=2
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="[https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png](https://youtu.be/wGD9VBG4olU?si=SWupc8xMK_E8pVyh)" width="500" height="auto"> |
-|:--:|
-| <b> Hack_NCState 2024 Recap Video! </b>|
+[<img src="https://drive.google.com/drive/folders/11I3aTLpxbtLQ86oI1FHKnK4bLzgygxoo" width="50%">](https://youtu.be/wGD9VBG4olU?si=ZviM9P47AbXP1ij3)
+| <b>Hack_NCState 2024 Recap Video! </b>|
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
