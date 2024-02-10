@@ -1,5 +1,4 @@
 # Hack_NCState 2024
-> Provide a description of your event, including but _not_ limited to: <br>
  - **Feb 3rd - 4th** 
  - **North Carolina State University**
  - **United States, North Carolina, Raleigh**  
@@ -67,9 +66,6 @@ All of the projects and their writeups are available on our Devpost!
 https://hackncstate2024.devpost.com/project-gallery?page=2
 
 ## Event Photos
-
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
 
 [<img src="https://drive.google.com/drive/folders/11I3aTLpxbtLQ86oI1FHKnK4bLzgygxoo" width="50%">](https://youtu.be/wGD9VBG4olU?si=ZviM9P47AbXP1ij3)
 | <b>Hack_NCState 2024 Recap Video! </b>|
