@@ -47,23 +47,33 @@ to teach participants how to use GitHub if they had never used it before.
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
+The grant was used for food and prizes, as well as some extra supplies we needed throughout the weekend to keep hackers
+hydrated, fed, and awake!
 - How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+This year Hack_NCState had double the participants compared to last year, so the funds helped us handle the large
+ food and supplies requirements that we had! Only a week before the event we had to order food worth about 120 more meals,
+and this grant helped pay for that extra expense we weren't anticipating. Without this extra order, we would not have been able to feed all of the participants! 
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
+- What were some of the coolest projects at your event? <br>
+We had a project called Recyclopedia that used AI to recommend new and interesting ways to recycle any type of item yourself,
+while also providing options on how to recycle it through a service or other company. Another project, VR Museum, presented Black History in a VR format to teach the user about some interesting facts they may not have known in an interactive way. Finally, we had a project called Loops, which was a pair of glasses that used Voice-To-Text functionality to transcribe
+what someone else was saying and display that on the glasses.
 - We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+All hackers submitted their project code on GitHub!
+- What made them special?
+All of the projects and their writeups are available on our Devpost!
+https://hackncstate2024.devpost.com/project-gallery?page=2
 
 ## Event Photos
 
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="[https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png](https://youtu.be/wGD9VBG4olU?si=SWupc8xMK_E8pVyh)" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> Hack_NCState 2024 Recap Video! </b>|
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
