@@ -1,5 +1,4 @@
  # Girls Hoo Hack 2023
-> Provide a description of your event, including but _not_ limited to: <br>
  - October 21-22, 2023  
  - The University of Virginia / Girls Who Code
  - United States of America, Virginia, Charlottesville <br>
@@ -9,14 +8,13 @@
 - Girls Hoo Hack is a gender-inclusive, women-centered hackathon that is focused on promoting innovation while celebrating diversity. <br>
 - We had lots of beginner friendly workshops in many cool technologies. To name a few, we had intro to git, how to deploy a website, HTML/CSS, Game Development with Unity, Agile Methodologies, Mobile App Development, and a few more! <br>
 - All hackathon participants were required to push their projects onto a github Repo. In the initial stages of our hackathon, we also hosted a workshop on Intro To Git, where hackers learned how to use Github to collaborate with others!<br> 
-- *We’d love to see pictures if you have them!* <br>
+
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-| 69 | 35 | 14 [(Devpost](https://girls-hoo-hack-2023.devpost.com)|
+| 69 | 35 | 14 [Devpost](https://girls-hoo-hack-2023.devpost.com)|
 
 ## Tech Impact / Diversity 
 
@@ -32,7 +30,7 @@
 
 ### What genders do your hackers identify as?
 | Woman | Man | Other/Prefer not to say |
-|---------------:|--------------:|------------:|---------:|
+|---------------:|------------:|---------:|
 | 57 | 7 | 2 |
 
 ## Impact of GitHub Grant
@@ -69,22 +67,19 @@
 
 ## Event Photos
 
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://drive.google.com/file/d/1BRtlYkgOct9ME6PmOeJ0ZvNwm13A1lpk/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/GirlsHooHack_GameOn.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Hackers showing off their projects during the expo! </b>|
 
-| <img src="https://drive.google.com/file/d/19YwycSDXU6t7YT3p3hV3XqDT7-4IQE8l/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/GirlsHooHack_ScavengerHunt.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Hackers finding items in the scavenger hunt! </b>|
 
-| <img src="https://drive.google.com/file/d/1orN_KQq2i9sloZ_nJ-U1NbQ08H8w_NBW/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/GirlsHooHack_networking.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Hackers networking with our sponsors! </b>|
 
-| <img src="https://drive.google.com/file/d/17SYfKwlnjOkcWfCY8yuTj-kiWobxGEFg/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2023/images/GirlsHooHack_hacking.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Hackers working on their projects! </b>|
 
