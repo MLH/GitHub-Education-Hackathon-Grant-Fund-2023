@@ -88,6 +88,34 @@ In terms of GitHub use at Hack@Brown, almost all of our hackers used GitHub for 
 |:--:|
 | <b> A hacker with a VR headset on! </b>|
 
+| <img src="https://github.com/alexissfry/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2024/images/hackers-mingling.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Hackers getting materials and working! </b>|
+
+| <img src="https://github.com/alexissfry/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2024/images/hackers-working.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Hackers developing their projects! </b>|
+
+| <img src="https://github.com/alexissfry/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2024/images/keynote.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Hearing from our keynote speaker, Dave Margulius! </b>|
+
+| <img src="https://github.com/alexissfry/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2024/images/mlh-booth.JPG" width="500" height="auto"> |
+|:--:|
+| <b> Hackers interacting with the MLH booth! </b>|
+
+| <img src="https://github.com/alexissfry/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2024/images/opening-ceremony.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> A shot from the opening ceremony! </b>|
+
+| <img src="https://github.com/alexissfry/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2024/images/sponsor-fair.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> A hacker talking to a company rep at the sponsor fair! </b>|
+
+| <img src="https://github.com/alexissfry/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2024/images/workshop.jpeg" width="500" height="auto"> |
+|:--:|
+| <b> Hack@Brown teammembers Albert and Nathan hosting their web scraping workshop! </b>|
+
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
 Hack@Brown 2024 
