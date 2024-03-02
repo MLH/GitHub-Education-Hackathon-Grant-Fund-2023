@@ -82,16 +82,11 @@ We would like to highlight CosmoCrops and Lingualens (linked above) as they show
 
 In terms of GitHub use at Hack@Brown, almost all of our hackers used GitHub for version control and collaboration throughout the weekend. Further, during our pre-Hack@Brown workshop, we encouraged hackers to take advantage of GitHub's Student Developer Pack when scoping out which technologies they want to use for their project. Lastly, our MLH coach hosted a workshop on using GitHub Copilot as a student.
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
-
-
 ## Event Photos
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/suppixie/GitHub-Education-Hackathon-Grant-Fund-2023/assets/100701261/c2fb08f6-3007-422c-ba5d-be7ef5511bb5" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> A hacker with a VR headset on! </b>|
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
