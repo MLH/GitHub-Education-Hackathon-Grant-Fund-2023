@@ -118,6 +118,6 @@ In terms of GitHub use at Hack@Brown, almost all of our hackers used GitHub for 
 
 ## What’s Next?
 - Include a high-level wrap-up summary <br>
-Hack@Brown 2024 
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+This was the 10th year of hosting Hack@Brown, Brown University's annual hackathon, and we're so happy with how it turned out! We were generally proud of how smoothly the hackathon flowed, which was the result of organizational optimizations that we implemented for this year. We also were suprised by the interest surronding Hack@Brown, as we received over 1,000 registrations for the hackathon, up 45% from Hack@Brown 2023. Further, we were generally pleased with the hackathon attendance at around ~350 hackers, who represented 32 universities. We were especially impressed by the projects at Hack@Brown this year, which showcased incredible breadth and creativity, two of Brown's signature traits :). Looking to the future, we hope to find unconventional ways to fundraise, such as grants and alumni, and add in a short application process for those hoping to attend from other universities. We are planning to hold Hack@Brown 2025 during the last week of January or first week of February. We are excited to see Hack@Brown continue to create space for building and pitching technical projects on Brown's campus!
+
+Check out our [Twitter](https://twitter.com/hackatbrown?lang=en) and [Instagram](https://www.instagram.com/hackatbrown/)!
