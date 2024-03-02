@@ -84,7 +84,7 @@ In terms of GitHub use at Hack@Brown, almost all of our hackers used GitHub for 
 
 ## Event Photos
 
-| <img src="https://github.com/suppixie/GitHub-Education-Hackathon-Grant-Fund-2023/assets/100701261/c2fb08f6-3007-422c-ba5d-be7ef5511bb5" width="500" height="auto"> |
+| <img src="https://github.com/alexissfry/GitHub-Education-Hackathon-Grant-Fund-2023/blob/patch-1/Hackathons_2024/images/hacker.jpeg" width="500" height="auto"> |
 |:--:|
 | <b> A hacker with a VR headset on! </b>|
 
