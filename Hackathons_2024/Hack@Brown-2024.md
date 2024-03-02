@@ -22,7 +22,6 @@ _You can use this repository to document & celebrate your event highlights!_
 ### Content Submission Template: 
 
 # Hack@Brown 2024
-> Provide a description of your event, including but _not_ limited to: <br>
  - **February 3-4, 2024** 
  - **Brown University**
  - **Providence, Rhode Island**  
