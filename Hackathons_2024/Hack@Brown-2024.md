@@ -78,6 +78,7 @@ MLH Track Winners:
 - **Best .Tech Domain Name:** [TelePhoto](https://devpost.com/software/telephoto)
 
 Our Favorite Projects:
+
 We would like to highlight CosmoCrops and Lingualens (linked above) as they show the impressive breadth of projects that we had at Hack@Brown this year. More often than not, we do not get as many projects that are hardware or design focused, but both of these, among others, were and were very high quality projects. Further, one project we really enjoyed which did not win a prize was [Expanse](https://devpost.com/software/expanse), which allows everyone to build immersive 3D spaces, no matter their technical level of expertise. This was yet another project that explored a niche area, AR/VR, that is uncommon to come across during a hackathon. Further, we thought that this product was interesting given the recent release of the Apple Vision Pro and the continued investment into the Meta Quest 3. 
 
 In terms of GitHub use at Hack@Brown, almost all of our hackers used GitHub for version control and collaboration throughout the weekend. Further, during our pre-Hack@Brown workshop, we encouraged hackers to take advantage of GitHub's Student Developer Pack when scoping out which technologies they want to use for their project. Lastly, our MLH coach hosted a workshop on using GitHub Copilot as a student.
