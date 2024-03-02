@@ -21,11 +21,11 @@ _You can use this repository to document & celebrate your event highlights!_
 
 ### Content Submission Template: 
 
-# {Your Hackathon Name}
+# Hack@Brown 2024
 > Provide a description of your event, including but _not_ limited to: <br>
- - **Start and end dates of your event** 
- - **University Name / Organization Name**
- - **Country, State or Province, City**  
+ - **February 3-4, 2024** 
+ - **Brown University**
+ - **Providence, Rhode Island**  
 
 ## Event Summary
 
