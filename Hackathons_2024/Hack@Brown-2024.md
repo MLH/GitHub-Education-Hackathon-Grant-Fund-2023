@@ -1,61 +1,48 @@
 # The GitHub Education Hackathon Grant Fund 2022-2024
-
-_Congratulations on hosting your **GitHub Grant** powered event through **MLH**._
-
-_You can use this repository to document & celebrate your event highlights!_
-
-### Instructions 
-
-- Click on the README.md file and hit the `copy raw contents` icon.
-  - It should look like two overlapping squares. 
-- Go back to the main repository landing page -> navigate to the `Hackathons_2023` folder and hit `Add File`. 
-- We're going to be creating a new markdown file. 
-- The markdown file should be named ```{Your Hackathon Name}-{Year of Event}.md.``` 
-  - For example: ```AbstractHacks-2023.md```
-- Copy and paste the template raw contents and delete everything from lines 1-22.
-- Fill the markdown template in with your own event information and commit a new file. 
-- In the description, feel free to include a brief summary of your commit. 
-- Create a new pull request. 
-- Look over your pull request and ensure that all the information is accurate. 
-- Submit a pull request! 
-
-### Content Submission Template: 
-
 # Hack@Brown 2024
  - **February 3-4, 2024** 
  - **Brown University**
  - **Providence, Rhode Island**  
 
 ## Event Summary
+In an industry that can often be highly competitive and intimidating (especially to those coming from underrepresented backgrounds), we hope that Hack@Brown helps create an experience that both introduces opportunities in technology, and inspires confidence in our hackers. 
 
-- What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
-- How was **GitHub** featured at your event? <br> 
-- *We’d love to see pictures if you have them!* <br>
+Throughout the weekend, we've offered our participants numerous opportunities to learn and get excited about technology:
+
+  - On Saturday, we had our Sponsorships Fair where hackers had a chance to meet representatives from our amazing sponsors.
+  - Hackers attended numerous workshops throughout the weekend, about Python and Web Scraping, React and UI/UX and even Deep Learning. We've also had two interesting panels which led to fruitful discussions: an alumni panel and an AI/ML panel with industry professionals. 
+  - Our MLH representatives also organized two amazing workshops, about GitHub Copilot and Soroban.
+
+We had a GitHub Copilot Workshop on Saturday, "Making Better Hacks, Faster with GitHub Copilot". We've also given a shoutout to GitHub during our opening ceremony for their generous help through the grant. We've also given extensive support to hackers for learning how to use version control and collaborate with Git, using GitHub. <br>
+
+*We’ve included pictures below, in the [Event Photos](#event-photos) section!* <br>
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+|317|164|[57 project submissions](https://hack-brown-2024.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
+Hack@Brown targets mostly Brown University undergraduate or masters student interested in stepping out of their comfort zone to experience  new technologies. The event welcomes individuals with all range of experiences, excited to build fascinating and impactful projects!
+
+ ### Gender Diversity Breakdown
+| Male | Female | Non-binary | Prefer to self-describe | Unknown (no data) |
+|---------------:|--------------:|------------:|---------:|--------:|
+|152|105|7|2|51|
 
 ### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+**Black / African American**|**East Asian**|**Hawaiian / Pacific Islander**|**Hispanic/Latinx**|**Middle Eastern**|**Native American**|**White**|**South/Southeast Asian**|**Two or More**|**Other**|**Decline to self-identify / No data**
+-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:
+13|91|0|13|9|0|32|46|37|9|67
 
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
 |---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+|13|301|3|0|
 
 ## Impact of GitHub Grant
 First and foremost, we would not have been able to host Hack@Brown 2024 and give a high quality experience to all of our hackers if we did not have the support of the GitHub grant. We mostly used the funds for food and facilities costs. More specifically, we were able to afford enough food so that all of our hackers who came to get lunch, dinner, a midnight snack, and brunch were able to get fed and stay energized throughout the weekend. Secondly, we faced some unexpected facilities costs from our university and were able to use the grant funds to ensure that we could cover such—this way our venue stayed clean throughout the hackathon and there were surge protectors set up for all of our hackers to charge their devices while developing their projects and pitching during judging. With all of this said, the GitHub Grant gave us that last mile support so that we could put on a great 10th year of Hack@Brown!
