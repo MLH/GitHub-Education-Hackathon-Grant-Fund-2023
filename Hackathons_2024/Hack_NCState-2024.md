@@ -5,22 +5,17 @@
 
 ## Event Summary
 
-- What made your hackathon special or unique? <br>
-This year we collaborated with Code Black, a student organization aiming to promote diversity and cultural awareness in Computer
+- This year we collaborated with Code Black, a student organization aiming to promote diversity and cultural awareness in Computer
 Science. Code Black added a track to our event titled "Preserving Black Culture", where projects aimed to spread awareness and educate
 people about culture. By having this track in our event, a diverse group of students were able to tackle different problems revolving around
 diversity in Computer Science while learning things about Black Culture that they might not have known about previously.
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
 - We had 5 workshops this year: Collaboration/Professional Networking Talk with Cisco, Research/AI Talk with Microsoft, UI/UX Talk with Code Black,
 and an AI/ML Talk with Google. Alongside these workshops, we had a Career Panel with all of our Sponsors and Partners where participants
 were able to ask questions about the tech industry.
-- How was **GitHub** featured at your event? <br>
 - All particpants submitted their projects using GitHub. Also, since we had many first-time hackers, our mentors were encouraged
 to teach participants how to use GitHub if they had never used it before. 
-- *We’d love to see pictures if you have them!* <br>
 
 ## Event Metrics 
-> Feel free to include any other metrics that you think may be important or applicable. 
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
@@ -61,16 +56,16 @@ while also providing options on how to recycle it through a service or other com
 what someone else was saying and display that on the glasses.
 - We also want to see how hackers used GitHub at the event <br>
 All hackers submitted their project code on GitHub!
-- What made them special?
-All of the projects and their writeups are available on our Devpost!
+- What made them special? <br>
+The projects at Hack_NCState were wide-ranging in the tech used and the problems that were being worked on. It was exciting to see how many people wanted to learn more about other cultures in our Preserving Black Culture track, and there were many creative ideas in our Life Cycle track that the judges thought were unique!
+ - All of the projects and their writeups are available on our Devpost!
 https://hackncstate2024.devpost.com/project-gallery?page=2
 
 ## Event Photos
-
-[<img src="https://drive.google.com/drive/folders/11I3aTLpxbtLQ86oI1FHKnK4bLzgygxoo" width="50%">](https://youtu.be/wGD9VBG4olU?si=ZviM9P47AbXP1ij3)
-| <b>Hack_NCState 2024 Recap Video! </b>|
+Click here to watch our recap video! <br>
+[![Hack_NCState Recap Video!](https://img.youtube.com/vi/wGD9VBG4olU/0.jpg)](https://www.youtube.com/watch?v=wGD9VBG4olU)
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
-- What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+- Hack_NCState 2024 was our second year back as an in-person hackathon, and it was bigger and better in many ways. At the same time, there are still many ways in which we can improve our event in terms of hacker participation, sponsor involvement, and overall experience! Overall, the Hack_NCState team is super happy with how the event went, and we enjoyed seeing the many awesome projects that were submitted.
+- Our next event will likely be in April of next year
+- Our X and Instragram page: @hack_ncstate
