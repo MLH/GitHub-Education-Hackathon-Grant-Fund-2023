@@ -58,19 +58,19 @@ to the experience and gave participants a token to remember their experience dur
 
 ## Event Photos
 
-| <img src="https://drive.google.com/file/d/1dYXIzR3CbNJ8R7bMW6ReUcm27JXnHHsA/view?usp=drive_link" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/GDSC_Team.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Team Photo After Hackathon </b>|
 
-| <img src="https://drive.google.com/file/d/1qSCw6_l_40duM3eha3BCj7docOGPQVdu/view?usp=drive_link" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/GDSC_Judging.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Photo During Judging </b>|
 
-| <img src="https://drive.google.com/drive/folders/1zN3QUkD-0YPlW6Re0oLeqrW6bhVjU3Fs" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/GDSC_Winners.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Photo of winning team  </b>|
 
-| <img src="https://drive.google.com/drive/folders/1Cgc3eMdcLGA09iQxSfQ14UwMa-5L6eIQ" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/GDSC_Hackers.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Photo of Hackers  </b>|
 
