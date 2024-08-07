@@ -13,9 +13,9 @@ This was a rebooted event,
 ## Event Metrics 
 > Feel free to include any other metrics that you think may be important or applicable. 
 
-| Attendees |First Time Hackers| Projects|
-|---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+| Attendees | Projects|
+|---------------:|------------:|
+|131|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
@@ -24,15 +24,15 @@ This was a rebooted event,
  - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
 
 ### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White | Other (N/A or Prefer not to Answer)
+|---------------:|--------------:|------------:|---------:|--------:|--------:|
+|1|2|8|45|58|17|
 
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
 |---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+|0|131|0|0|
 
 ## Impact of GitHub Grant
 - We used the funds provided from the Github grant to provide incluive nutriitonal food every single one of our participants. We had a lot of hackers who were Vegan or Halal we had to account for an the Github grant made it much easier to do so.
