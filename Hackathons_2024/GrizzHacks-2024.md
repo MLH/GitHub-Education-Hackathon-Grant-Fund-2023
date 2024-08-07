@@ -6,7 +6,7 @@ This was a rebooted event,
 
 
 - Our Hackathon was special because it was a reboot for a commuter University. It was very difficult even bringing awareness to our students that an event like this even exists. It took a small team of ours a lot of outreach and a ton of effort restoring what once was a pretty big event at our college.
-- For our first Hakcathon back, we wanted to keep it fairly bare bones so we didn't distract hackers too much and didn't make costly mistakes. That said, our raffle held after eevery talk and workshop went well in addition to our teaming up with board and video game clubs at our school to give hackers a game break.
+- For our first Hakcathon back, we wanted to keep it fairly bare bones so we didn't distract hackers too much and didn't make costly mistakes. That said, our raffle held after every talk and workshop went well in addition to our teaming up with board and video game clubs at our school to give hackers a game break.
 - Github was featured in the sponsorship materials, on our shirts, and in every single project that was uploaded to devpost
 ### [Pictures here](https://gabriellemack.smugmug.com/GrizzHacks2024)
 
@@ -15,7 +15,7 @@ This was a rebooted event,
 
 | Attendees | Projects|
 |---------------:|------------:|
-|131|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+|131|[GrizzHacks Project Gallery](https://grizzhacks-6.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
@@ -35,7 +35,7 @@ This was a rebooted event,
 |0|131|0|0|
 
 ## Impact of GitHub Grant
-- We used the funds provided from the Github grant to provide incluive nutriitonal food every single one of our participants. We had a lot of hackers who were Vegan or Halal we had to account for an the Github grant made it much easier to do so.
+- We used the funds provided from the Github grant to provide incluive nutriitonal food every single one of our participants. We had a lot of hackers who were Vegan or Halal we had to account for and the Github grant made it much easier to do so.
 - We were able to provide a much better experience during meals, and were even able to provide one off meal vouchers for students who could not eat what we provided. 
 
 ## Top Projects
