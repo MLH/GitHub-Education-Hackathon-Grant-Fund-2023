@@ -1,6 +1,6 @@
 
 
-# {Your Hackathon Name}
+# Hack@Davidson
 > Provide a description of your event, including but _not_ limited to: <br>
  - **Start and end dates of your event** 
 Feb 2nd-4th
