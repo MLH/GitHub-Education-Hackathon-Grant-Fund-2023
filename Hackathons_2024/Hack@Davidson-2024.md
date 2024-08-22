@@ -2,11 +2,11 @@
 
 # Hack@Davidson
 > Provide a description of your event, including but _not_ limited to: <br>
- - **Start and end dates of your event** 
+ - **Start and end dates of your event** <br>
 Feb 2nd-4th
- - **University Name / Organization Name**
+ - **University Name / Organization Name**<br>
 Davidson College
- - **Country, State or Province, City**  
+ - **Country, State or Province, City**  <br>
 United States, North Carolina, Charlotte
 
 ## Event Summary
