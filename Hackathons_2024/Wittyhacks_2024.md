@@ -74,11 +74,11 @@
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://drive.google.com/file/d/1mdIKAwmHLlYxTfSz4vl0l2EDxP-ZyS76/view?usp=drive_link" width="500" height="auto"> | <img src="https://drive.google.com/file/d/1TR-kDU0DsRPe6fKxPwjl5ILl-0zpWrW5/view?usp=drive_link" width="500" height="auto"> | <img src="https://drive.google.com/file/d/1S96A8b9Aa6jvCMwSa8pi9UxMXDqMKpB5/view?usp=drive_link" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/wittyhacks1.jpg" width="500" height="auto"> | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/wittyhacks2.jpg" width="500" height="auto"> | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/wittyhacks3.JPG" width="500" height="auto"> |
 |:--:|:--:|:--:|
 | <b> Hacker Check-in and Welcome </b>| <b> Hacker Hacking Hall </b>| <b> Hackers Play/Fun Zone </b>|
 
-| <img src="https://drive.google.com/file/d/1B4OEt1PoulIxeXF2RgS4I9tjgIyr1tn0/view?usp=drive_link" width="500" height="auto"> | <img src="https://drive.google.com/file/d/1AFOBSee1LHxDEDyQuopWWnzbRoyWYtjj/view?usp=drive_link" width="500" height="auto"> | <img src="https://drive.google.com/file/d/13Ls1zar-rOubLFgrTRk_obecXQVBoUOF/view?usp=drive_link" width="500" height="auto"> | 
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/wittyhacks4.JPG" width="500" height="auto"> | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/wittyhacks5.jpg" width="500" height="auto"> | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/wittyhacks6.jpg" width="500" height="auto"> | 
 |:--:|:--:|:--:|
 | <b> Cup-Stacking Mini-Event </b>| <b> GitHub Booth </b>| <b> Hackathon Winners </b>|
 
