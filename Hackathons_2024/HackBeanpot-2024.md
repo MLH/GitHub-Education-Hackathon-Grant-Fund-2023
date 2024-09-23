@@ -62,15 +62,15 @@ Devpost link: https://devpost.com/software/closet-companion
 
 ## Event Photos
 
-| <img src="https://drive.google.com/drive/u/0/folders/12yWeRO_oTkcNUr6wa6xDjZ68YLcx31FC" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/Copy%20of%20IMG_6431.PNG?raw=true" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers listening to one of our workshops! </b>|
 
-| <img src="https://drive.google.com/file/d/1w_nzVTrP1SFb3Tjz_9TgXMHHAQMvDLHL/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/IMG_5262.jpg" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers doing one of our activities - making friendship bracelets! </b>|
 
-| <img src="https://drive.google.com/drive/u/0/folders/12yWeRO_oTkcNUr6wa6xDjZ68YLcx31FC" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/IMG_6426.PNG?raw=true" width="500" height="auto"> |
 |:--:|
 | <b> A group of hackers attending another workshop! </b>|
 
